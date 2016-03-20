@@ -7,7 +7,7 @@ Modelo de Tese e Dissertação em Latex para o CEFET-MG usando regras da ABNT.
 Faça o checkout:
 
 ```bash
-      git clone https://github.com/aflavio/cefet-mg-latex-tese/
+      git clone https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex.git/
       make
 ```
 
