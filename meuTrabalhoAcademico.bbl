@@ -1,0 +1,1551 @@
+\nocite{wmoore1960}
+\nocite{silva1988}
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.5 }
+
+\bibitem[abnTeX2 e Araujo 2014]{abnTeX22014b}
+\abntrefinfo{abnTeX2 e Araujo}{ABNTEX2; ARAUJO}{2014a}
+{ABNTEX2; ARAUJO, L.~C. \textbf{A classe abntex2}: Documentos t\'{e}cnicos e
+  cient\'{i}ficos brasileiros compat\'{i}veis com as normas abnt.
+[S.l.], 2014. 46~p. Dispon{\'\i}vel em: \url{http://abntex2.googlecode.com/}.
+  Acesso em: 12 de setembro de 2014.}
+
+\hiddenbibitem[abnTeX2 e Araujo 2014]{abnTeX22014a}
+\abntrefinfo{abnTeX2 e Araujo}{ABNTEX2; ARAUJO}{2014b}
+{}
+
+\bibitem[abnTeX2 e Araujo 2014]{abnTeX22014d}
+\abntrefinfo{abnTeX2 e Araujo}{ABNTEX2; ARAUJO}{2014c}
+{ABNTEX2; ARAUJO, L.~C. \textbf{O pacote abntex2cite}: Estilos
+  bibliogr\'{a}ficos compat\'{i}veis com a abnt nbr 6023.
+[S.l.], 2014. 91~p. Dispon{\'\i}vel em: \url{http://abntex2.googlecode.com/}.
+  Acesso em: 12 de setembro de 2014.}
+
+\bibitem[Accioly 2000]{Accioly}
+\abntrefinfo{Accioly}{ACCIOLY}{2000}
+{ACCIOLY, F. Publica{\c c}\~ao eletr\^onica \normalfont [mensagem pessoal].
+  Mensagem recebida por $<$mtmendes@uol.com.br$>$ em 26 jan. 2000. 2000.}
+
+\bibitem[Albergaria 1994]{Albergari1994}
+\abntrefinfo{Albergaria}{ALBERGARIA}{1994}
+{ALBERGARIA, L. \textbf{Cinco anos sem chover}: hist\'oria de {L}ino
+  {A}lbergaria. Ilustra{\c c}\~oes de Paulo Lyra. 12. ed. S\~ao Paulo: FTD,
+  1994. 63~p.}
+
+\bibitem[Alcarde e Rodella 1996]{Alcarde1996}
+\abntrefinfo{Alcarde e Rodella}{ALCARDE; RODELLA}{1996}
+{ALCARDE, J.~C.; RODELLA, A.~A. O equivalente em carbonato de c\'alcio dos
+  corretivos da acidez dos solos.
+\textbf{Scientia Agricola}, Piracicaba, v.~53, n.~2/3, p. 204--210, mai./dez.
+  1996.}
+
+\bibitem[Alcione p1988]{Alcionep1988}
+\abntrefinfo{Alcione}{ALCIONE}{p1988a}
+{ALCIONE. \textbf{Ouro e cobre}. Dire{\c c}\~ao artistica: Miguel Propschi.
+  S\~ao Paulo: RCA Victor, p1988. 1~disco sonoro (45~min), 33~1/3 rpm, estero,
+  12~pol.}
+
+\bibitem[Alcione p1988]{Alcionep1988a}
+\abntrefinfo{Alcione}{ALCIONE}{p1988b}
+{ALCIONE. Toque macio. {A. Gino. [Compositor]}.
+In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{Ouro e cobre}. Dire{\c c}\~ao
+  Art\'{i}stica: Miguel Propschi. S\~ao Paulo: RCA Victor, p1988.
+1~disco sonoro (45~min), 33~1/3 rpm, est\'{e}reo, 12~pol. Lado~A, faixa~1
+  (4~min 3~s).\footnote{O compositor foi acrescentado ao t\'{i}tulo.}}
+
+\bibitem[Alfonso-Goldfarb e Maia 1995]{maia1995}
+\abntrefinfo{Alfonso-Goldfarb e Maia}{ALFONSO-GOLDFARB; MAIA}{1995}
+{ALFONSO-GOLDFARB, A.~M.; MAIA, C.~A. (Coord.). \textbf{Hist\'oria da
+  ci\^encia}: o mapa do conhecimento. Rio de Janeiro: Express\~ao e Cultura,
+  1995. 968~p.  (Am\'{e}rica 500 anos, 2).\footnote{Nesta refer{\^e}ncia ainda
+  falta modificar o estilo para que seja acrescentado um segundo conjunto
+  {\ttfamily address} e {\ttfamily publisher}.}}
+
+\bibitem[Alie's play house 1993]{mpc1993}
+\abntrefinfo{Alie's\ldots}{ALIE'S\ldots}{1993}
+{ALIE'S play house. Palo Alto, CA: MPC/Opcode Interactive, 1993. 1 CD-ROM.
+  Windows 3.1.}
+
+\bibitem[Alighieri 1983]{alighieri1983}
+\abntrefinfo{Alighieri}{ALIGHIERI}{1983}
+{ALIGHIERI, D. \textbf{A divina com\'{e}dia}. Tradu{\c c}\~ao, pref\'acio e
+  notas: Hern\^ani Donato. S\~ao Paulo: C\'{i}rculo do Livro, 1983. 344~p.}
+
+\bibitem[Alves 1995]{alves1995}
+\abntrefinfo{Alves}{ALVES}{1995}
+{ALVES, R. de B. \textbf{Ci\^encia criminal}. Rio de Janeiro: Forense, 1995.}
+
+\bibitem[Amaral Sobrinho 1994]{amaral1994}
+\abntrefinfo{Amaral Sobrinho}{AMARAL SOBRINHO}{1994}
+{AMARAL SOBRINHO, J. \textbf{Ensino fundamental}: gastos das {U}ni\~ao e do
+  {MEC} em 1991: tend\^encias. Bras\'{i}lia, DF: IPEA, 1994. 8~p.  (Texto para
+  discuss\~ao, n.~31).\footnote{O n\'umero em s\'{e}rie n\~ao deveria de levar
+  o `n.', este exemplo \'{e} uma exce{\c c}\~ao. N\~ao sabemos por que.}}
+
+\bibitem[Araujo e abnTeX2 2014]{abnTeX22014c}
+\abntrefinfo{Araujo e abnTeX2}{ARAUJO; ABNTEX2}{2014}
+{ARAUJO, L.~C.; ABNTEX2. \textbf{O pacote abntex2cite}: T\'{o}picos
+  espec\'{i}ficos da abnt nbr 10520:2002 e o estilo bibliogr\'{a}fico
+  alfab\'{e}tico (sistema autor-data).
+[S.l.], 2014. 23~p. Dispon{\'\i}vel em: \url{http://abntex2.googlecode.com/}.
+  Acesso em: 12 de setembro de 2014.}
+
+\bibitem[Ara\'ujo 1986]{araujo1986}
+\abntrefinfo{Ara\'ujo}{ARA\'UJO}{1986}
+{ARA\'UJO, U. A.~M.
+\textbf{M\'ascaras inteiri{\c c}as Tuk\'una}: possibilidade de estudo de
+  artefatos de museu para o conhecimento do universo ind\'{i}gena.
+Dezembro 1985. 102~f. Disserta\c{c}\~{a}o (Mestrado em Ci\^encias Sociais) ---
+  Funda{\c c}\~ao Escola de Sociologia Pol\'{i}tica de S\~ao Paulo, S\~ao
+  Paulo, 1986.}
+
+\bibitem[Arbex Junior 1993]{arbex1993}
+\abntrefinfo{Arbex Junior}{ARBEX JUNIOR}{1993}
+{ARBEX JUNIOR, J. \textbf{Nacionalismo}: o desafio \`a nova ordem
+  p\'os-socialista. S\~ao Paulo: Scipione, 1993. 104~p., 23~cm.  (Hist\'oria em
+  aberto).}
+
+\bibitem[Arranjo tribut\'ario 1998]{nordeste1998}
+\abntrefinfo{Arranjo\ldots}{ARRANJO\ldots}{1998}
+{ARRANJO tribut\'ario.
+\textbf{Di\'ario do Nordeste Online}, Fortaleza, 27 nov. 1998.
+Dispon{\'\i}vel em: \url{http://www.diariodonordeste.com.br}. Acesso em: 28
+  nov. 1998.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2002]{NBR10520:2002}
+\abntrefinfo{ABNT}{ABNT}{2002a}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 10520}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- cita{\c c}\~oes em documentos ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2002. 7~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2002]{NBR6023:2002}
+\abntrefinfo{ABNT}{ABNT}{2002b}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6023}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- refer\^encias --- elabora{\c
+  c}\~ao.
+Rio de Janeiro, 2002. 24~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2003]{NBR6022:2003}
+\abntrefinfo{ABNT}{ABNT}{2003a}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6022}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- artigo em publica{\c c}\~ao
+  peri\'odica cient\'{i}fica impressa --- apresenta{\c c}\~ao.
+Rio de Janeiro, 2003. 5~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2003]{NBR6024:2003}
+\abntrefinfo{ABNT}{ABNT}{2003b}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6024}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- numera{\c c}\~ao progressiva das
+  se{\c c}\~oes de um documento escrito --- apresenta{\c c}\~ao.
+Rio de Janeiro, 2003. 3~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2003]{NBR6027:2003}
+\abntrefinfo{ABNT}{ABNT}{2003c}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{NBR} 6027}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- sum\'ario --- apresenta{\c
+  c}\~ao.
+Rio de Janeiro, 2003. 2~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2005]{NBR15287:2005}
+\abntrefinfo{ABNT}{ABNT}{2005}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{ABNT NBR} 15287}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- projeto de pesquisa ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2005. 6~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2006]{NBR6029:2006}
+\abntrefinfo{ABNT}{ABNT}{2006}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{ABNT NBR} 6029}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- livros e folhetos ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2006. 10~p.}
+
+\bibitem[Associa{\c c}\~ao Brasileira de Normas T\'ecnicas 2011]{NBR14724:2011}
+\abntrefinfo{ABNT}{ABNT}{2011}
+{ASSOCIA{\c C}\~AO BRASILEIRA DE NORMAS T\'ECNICAS. \textbf{{ABNT NBR} 14724}:
+  Informa{\c c}\~ao e documenta{\c c}\~ao --- trabalhos acad\^emicos ---
+  apresenta{\c c}\~ao.
+Rio de Janeiro, 2011. 11~p.}
+
+\bibitem[Atlas Mirador Internacional 1981]{britanica1981}
+\abntrefinfo{Atlas\ldots}{ATLAS\ldots}{1981}
+{ATLAS Mirador Internacional. Rio de Janeiro: Enciclop\'{e}dia Brit\^anica do
+  Brasil, 1981.}
+
+\bibitem[Azevedo 1994]{azevedo1994}
+\abntrefinfo{Azevedo}{AZEVEDO}{1994}
+{AZEVEDO, M.~R. de. \textbf{Viva vida}: estudos sociais, 4. S\~ao Paulo: FTD,
+  1994. 194~p., il. color.}
+
+\bibitem[Barabasi 2002]{Barabasi2002}
+\abntrefinfo{Barabasi}{BARABASI}{2002}
+{BARABASI, A.~L. \textbf{Linked: The New Science of Networks}. [S.l.]: Perseus
+  Publishing, 2002.}
+
+\bibitem[Barbosa et al. 2004]{Barbosa2004}
+\abntrefinfo{Barbosa et al.}{BARBOSA et al.}{2004}
+{BARBOSA, C. et al. \textbf{Testando a utiliza{\c c}\~ao de ``et al.''}. 2. ed.
+  Cidade: Editora, 2004.}
+
+\bibitem[Barcelos 1998]{barcelos1998}
+\abntrefinfo{Barcelos}{BARCELOS}{1998}
+{BARCELOS, M. F.~P.
+\textbf{Ensaio tecnol\'ogico, bioqu\'{i}mico e sensorial de soja e gandu
+  enlatados no est\'agio verde e matura{\c c}\~ao de colheita}.
+Dezembro 1997. 160~f. Tese (Doutorado em Nutri{\c c}\~ao -- \'{a}rea de
+  concentra{\c c}\~ao) --- Faculdade de Engenharia de Alimentos, Universidade
+  Estadual de Campinas, Campinas, 1998.}
+
+\bibitem[Barros 1995]{barros1995}
+\abntrefinfo{Barros}{BARROS}{1995}
+{BARROS, R.~G. de. Minist\'{e}rio {P}\'ublico: sua legitima{\c c}\~ao frente ao
+  {C}\'odigo do {C}onsumidor.
+\textbf{Revista Trimestral de Jurisprud\^encia dos Estados}, S\~ao Paulo,
+  v.~19, n.~139, p. 53--72, ago. 1995.}
+
+\bibitem[Bart\'ok 1952]{bart1952}
+\abntrefinfo{Bart\'ok}{BART\'OK}{1952}
+{BART\'OK, B. \textbf{O mandarim maravilhoso}: op. 19. Wien: Universal, 1952. 1
+  partitura (73 p.). Orquestra.}
+
+\bibitem[Batista e Batista 1992]{batista1992}
+\abntrefinfo{Batista e Batista}{BATISTA; BATISTA}{1992}
+{BATISTA, Z.; BATISTA, N. \textbf{O foguete do {G}uido}. Ilustra{\c c}\~oes de
+  Marilda Castanha. S\~ao Paulo: Ed. do Brasil, 1992. 15~p., principalmente il.
+  color.}
+
+\bibitem[Benetton 1993]{benetton1993}
+\abntrefinfo{Benetton}{BENETTON}{1993}
+{BENETTON, M.~J. Terapia ocupacional e reabilita{\c c}\~ao psicossocial: uma
+  rela{\c c}\~ao poss\'{i}vel.
+\textbf{Revista de Terapia Ocupacional da Universidade de S\~ao Paulo}, S\~ao
+  Paulo, v.~4, n.~3, p. 11--16, mar. 1993.}
+
+\bibitem[Biblioteca Nacional {(Brasil)} 1985]{biblioteca1985}
+\abntrefinfo{Biblioteca Nacional {(Brasil)}}{BIBLIOTECA NACIONAL
+  {(Brasil)}}{1985}
+{BIBLIOTECA NACIONAL {(Brasil)}. \textbf{Relat\'orio da diretoria-geral}: 1984.
+Rio de Janeiro, 1985. 40~p.}
+
+\bibitem[Biblioteca Nacional {(Portugal)} 1983]{biblioteca1983}
+\abntrefinfo{Biblioteca Nacional {(Portugal)}}{BIBLIOTECA NACIONAL
+  {(Portugal)}}{1983}
+{BIBLIOTECA NACIONAL {(Portugal)}. \textbf{O 24 de julho de 1833 e a guerra
+  civil de 1829--1834}.
+Lisboa, 1983. 95~p.}
+
+\bibitem[BibTeX 2014]{BibTeX2014}
+\abntrefinfo{BibTeX}{BIBTEX}{2014}
+{BIBTEX. \textbf{BibTeX.org}. 2014.
+Dispon{\'\i}vel em: \url{http://www.bibtex.org}. Acesso em: 31 de julho de
+  2014.}
+
+\bibitem[Bioline Discussion List. List maintained by the Bases de Dados
+  Tropical, BDT in Brasil 1998]{bioline1998}
+\abntrefinfo{Bioline\ldots}{BIOLINE\ldots}{1998}
+{BIOLINE Discussion List. List maintained by the Bases de Dados Tropical, BDT
+  in Brasil. 1998.
+Dispon{\'\i}vel em: \url{http://lisserv@bdt.org.br}. Acesso em: 25 nov. 1998.}
+
+\bibitem[Birds from Amap\'a 199-?]{birds1998}
+\abntrefinfo{Birds\ldots}{BIRDS\ldots}{199-?}
+{BIRDS from Amap\'a: banco de dados. 199--?
+Dispon{\'\i}vel em: \url{http://www.bdt.org/bdt/avifauna/aves}. Acesso em: 25
+  nov. 1998.}
+
+\bibitem[Blade {R}unner c1991]{warner1991}
+\abntrefinfo{Blade\ldots}{BLADE\ldots}{c1991}
+{BLADE {R}unner. Dire{\c c}\~ao: Ridley Scott. Produ{\c c}\~ao: Michael Deeley.
+  Int\'{e}rpretes: Harrison Ford; Rutger Hauer; Sean Young; Edward James Olmos
+  e outros. Roteiro: Hampton Fancher e David Peoples. M\'usica: Vangelis. Los
+  Angeles: Warner Brothers, c1991. 1 DVD (117 min), widescreen, color.
+  Produzido por Warner Video Home. Baseado na novela ``Do androids dream of
+  electric sheep?'' de Philip K.\ Dick.}
+
+\bibitem[Boletim Estat\'{i}stico {[da] Rede Ferrovi\'aria Federal}
+  1965--]{boletim1965}
+\abntrefinfo{Boletim\ldots}{BOLETIM\ldots}{1965--}
+{BOLETIM ESTAT\'{i}STICO {[da] Rede Ferrovi\'aria Federal}. Rio de Janeiro:
+  [s.n.], 1965--.}
+
+\bibitem[Book announcement 13 may 1997 1997]{drummond1998}
+\abntrefinfo{Book\ldots}{BOOK\ldots}{1997}
+{BOOK announcement 13 may 1997. Produced by J. Drummond. 1997.
+Dispon{\'\i}vel em:
+  \url{http://www.bdt.org.br/bioline/DBSearch?BIOLINE-L+READC+57}. Acesso em:
+  25 nov. 1998.}
+
+\bibitem[Brasil 1943]{lex1943}
+\abntrefinfo{Brasil}{BRASIL}{1943}
+{BRASIL. Consolida{\c c}\~ao das {L}eis do {T}rabalho. {D}ecreto-lei
+  n{$^o$}5.252 de 1 de maio de 1943. {A}prova a consolida{\c c}\~ao das leis do
+  trabalho.
+\textbf{Lex} --- Colet\^anea de Legisla{\c c}\~ao: edi{\c c}\~ao federal, S\~ao
+  Paulo, v.~7, 1943.
+Suplemento.}
+
+\bibitem[Brasil 1988]{brasil1988}
+\abntrefinfo{Brasil}{BRASIL}{1988}
+{BRASIL.
+Constitui{\c c}\~ao (1988). \textbf{Constitui{\c c}\~ao da Rep\'ublica
+  Federativa do Brasil}. Bras\'{i}lia, DF: Senado, 1988.}
+
+\bibitem[Brasil 1995]{brasil1995}
+\abntrefinfo{Brasil}{BRASIL}{1995a}
+{BRASIL. \textbf{C\'odigo civil}. Organiza{\c c}\~ao dos textos, notas
+  remissivas e \'{i}ndices por Juarez de Oliveira. 46. ed. S\~ao Paulo:
+  Saraiva, 1995.}
+
+\bibitem[Brasil 1995]{brasil1966}
+\abntrefinfo{Brasil}{BRASIL}{1995b}
+{BRASIL. Constitui{\c c}\~ao (1988). {E}menda constitucional n{$^o$}9, de 9 de
+  novembro de 1995. {D}\'a nova reda{\c c}\~ao ao art.\ 177 da {C}onstitui{\c
+  c}\~ao {F}ederal, alterando e inserindo par\'agrafos.
+\textbf{Lex} --- Colet\^anea de Legisla{\c c}\~ao e Jurisprud\^encia:
+  legisla{\c c}\~ao federal e margin\'alia, S\~ao Paulo, v.~59, p.~1966,
+  out./dez. 1995.}
+
+\bibitem[Brasil 1998]{brasillex1998}
+\abntrefinfo{Brasil}{BRASIL}{1998}
+{BRASIL. {T}ribunal {R}egional {F}ederal. {R}egi\~ao, 5. {A}dministrativo.
+  {E}scola {T}\'{e}cnica {F}ederal. {P}agamento de diferen{\c c}as referente a
+  enquadramento de servidor decorrente de implanta{\c c}\~ao de {P}lano
+  {\'u}nico de {C}lassifica{\c c}\~ao e {D}istribui{\c c}\~ao de {C}argos e
+  {E}mpregos, institu\'{i}do pela {L}ei n{$^o$}~8.270/91. {P}redomin\^ancia da
+  lei sobre a portaria. {A}pela{\c c}\~ao c\'{i}vel n{$^o$}~42.441-{PE}
+  (94.05.01629-6). {A}pelante: {E}dilemos {M}amede dos {S}antos e outros.
+  {A}pelada: {E}scola {T}\'{e}cnica {F}ederal de {P}ernambuco. {R}elator:
+  {J}uiz {N}ereu {S}antos. {R}ecife, 4 de mar{\c c}o de 1997.
+\textbf{Lex} --- Jurisprud\^encia do STJ e Tribunais Regionais Federais, S\~ao
+  Paulo, v.~10, n.~103, p. 558--562, mar. 1998.}
+
+\bibitem[Brasil 1999]{brasil1999}
+\abntrefinfo{Brasil}{BRASIL}{1999}
+{BRASIL. Lei n{$^o$} 9.887, de 7 de dezembro de 1999. {A}ltera a legisla{\c
+  c}\~ao tribut\'aria federal.
+\textbf{Di\'ario Oficial [da] Rep\'ublica Federativa do Brasil}, Bras\'{i}lia,
+  DF, 8 dez. 1999.
+Dispon{\'\i}vel em:
+  \url{http://www.in.gov.br/mp\_leis/leis\_texto.aps?Id=Lei\%209887}. Acesso
+  em: 22 dez. 1999.}
+
+\bibitem[Brasil. {Congresso. Senado} 1991]{leis1991}
+\abntrefinfo{Brasil. {Congresso. Senado}}{BRASIL. {Congresso. Senado}}{1991}
+{BRASIL. {Congresso. Senado}. Resolu{\c c}\~ao n{$^o$} 17, de 1991. {A}utoriza
+  o desbloqueio de {L}etras {F}inanceiras do {T}esouro do {E}stado do {R}io
+  {G}rande do {S}ul, atrav\'{e}s de revoga{\c c}\~ao do par\'agrafo 2{$^o$} do
+  artigo 1{$^o$} da {R}esolu{\c c}\~ao n{$^o$} 72, de 1990.
+\textbf{Cole{\c c}\~ao de leis da Rep\'ublica Federativa do Brasil},
+  Bras\'{i}lia, DF, v.~183, p. 1156--1157, mai./jun. 1991.}
+
+\bibitem[Brasil e parte da Am\'{e}rica do Sul 1981]{michalany1981}
+\abntrefinfo{Brasil\ldots}{BRASIL\ldots}{1981}
+{BRASIL e parte da Am\'{e}rica do Sul: mapa pol\'{i}tico, escolar,
+  rodovi\'ario, tur\'{i}stico e regional. S\~ao Paulo: Michalany, 1981. 1 mapa,
+  color., 79~cm$\times$95~cm. Escala 1:600.000.}
+
+\bibitem[Brasil. {Minist\'{e}rio da Justi{\c c}a} 1993]{justica1993}
+\abntrefinfo{Brasil. {Minist\'{e}rio da Justi{\c c}a}}{BRASIL. {Minist\'{e}rio
+  da Justi{\c c}a}}{1993}
+{BRASIL. {Minist\'{e}rio da Justi{\c c}a}. \textbf{Relat\'orio de atividades}.
+Bras\'{i}lia, DF, 1993. 28~p.}
+
+\bibitem[Brasil: roteiros tur\'{i}sticos 1995]{folha1995}
+\abntrefinfo{Brasil\ldots}{BRASIL\ldots}{1995}
+{BRASIL: roteiros tur\'{i}sticos. S\~ao Paulo: Folha da Manh\~a, 1995. 319~p.
+  (Roteiros tur\'{i}sticos Fiat). Inclui mapa rodovi\'ario.}
+
+\bibitem[Brasil. {Supremo Tribunal de Justi{\c c}a} 1994]{brasil1994}
+\abntrefinfo{Brasil. {Supremo Tribunal de Justi{\c c}a}}{BRASIL. {Supremo
+  Tribunal de Justi{\c c}a}}{1994}
+{BRASIL. {Supremo Tribunal de Justi{\c c}a}. S\'umula n{$^o$}14. {N}\~ao \'{e}
+  admiss\'{i}vel por ato administrativo restringir, em raz\~ao de idade,
+  inscri{\c c}\~ao em concurso para cargo p\'ublico.
+In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{S\'umulas}. S\~ao Paulo: Associa{\c
+  c}\~ao dos Advogados do Brasil, 1994. p.~16.}
+
+\bibitem[Brasil. {Supremo Tribunal Federal} 19--]{brasil1998}
+\abntrefinfo{Brasil. {Supremo Tribunal Federal}}{BRASIL. {Supremo Tribunal
+  Federal}}{19--}
+{BRASIL. {Supremo Tribunal Federal}. \textbf{S\'umula n{$^o$}14}. 19--. {N}\~ao
+  \'{e} admiss\'{i}vel por ato administrativo restringir, em raz\~ao de idade,
+  inscri{\c c}\~ao em concurso para cargo p\'ublico. Dispon{\'\i}vel em:
+  \url{http://www.truenetm.com.br/jurisnet/sumusSTF.html}. Acesso em: 29 nov.
+  1998.}
+
+\bibitem[Brayner e Medeiros 1994]{brayner1994}
+\abntrefinfo{Brayner e Medeiros}{BRAYNER; MEDEIROS}{1994}
+{BRAYNER, A. R.~A.; MEDEIROS, C.~B. Incorpora{\c c}\~ao do tempo em {SGDB}
+  orientado a objetos. In:  SIMP\'OSIO BRASILEIRO DE BANCO DE DADOS, 9., 1994,
+  S\~ao Paulo. \textbf{Anais...} S\~ao Paulo: USP, 1994. p. 16--29.}
+
+\bibitem[Buerger 1989]{Buerger1989}
+\abntrefinfo{Buerger}{BUERGER}{1989}
+{BUERGER, D.~J. \textbf{LaTeX for scientists and engineers}. Singapura:
+  McGraw-Hill, 1989.}
+
+\bibitem[Bule de porcelana: fam\'{i}lia rosa, decorado com buqu\^es e
+  guirlandas de flores sobre fundo branco, pegador de tampa em formato de fruto
+  15--]{indias0000}
+\abntrefinfo{Bule\ldots}{BULE\ldots}{15--}
+{BULE de porcelana: fam\'{i}lia rosa, decorado com buqu\^es e guirlandas de
+  flores sobre fundo branco, pegador de tampa em formato de fruto. 15--. Marca
+  Companhia das \'{i}ndias. China, s\'{e}c. XIX. 17 cm de alt.}
+
+\bibitem[Cardim 1984]{cardim1984}
+\abntrefinfo{Cardim}{CARDIM}{1984}
+{CARDIM, M.~S. \textbf{Constitui o ensino de 2$^o$ grau regular noturno uma
+  verdadeira educa{\c c}\~ao de adultos?} Curitiba: Universidade Federal do
+  Paran\'a, Setor de Educa{\c c}\~ao, 1984. 3 microfichas. Redu{\c c}\~ao de
+  1:24.000.}
+
+\bibitem[Carruth 1993]{carruth1993}
+\abntrefinfo{Carruth}{CARRUTH}{1993}
+{CARRUTH, J. \textbf{A nova casa do {B}ebeto}. Desenhos de Tony Hutchings.
+  Tradu{\c c}\~ao Ruth Rocha. S\~ao Paulo: C\'{i}rculo do Livro, 1993. 21~p.
+  T\'{i}tulo original: Moving House.}
+
+\bibitem[Carvalho, Fajardo e Cruz 2001]{Carvalho2001}
+\abntrefinfo{Carvalho, Fajardo e Cruz}{CARVALHO; FAJARDO; CRUZ}{2001}
+{CARVALHO, C.; FAJARDO, J.; CRUZ, J. Intelig{\^e}ncia competitiva numa vis\~ao
+  de futuro: proposta metodol\'{o}gica.
+\textbf{DataGramaZero - Revista da Ci{\^e}ncia da Informa{\c c}\~ao}, v.~2,
+  n.~3, p. 12--16, 2001.}
+
+\bibitem[Carvalho 1994]{carvalho1994}
+\abntrefinfo{Carvalho}{CARVALHO}{1994}
+{CARVALHO, M. \textbf{Guia pr\'atico do alfabetizador}. S\~ao Paulo: \'Atica,
+  1994. 95~p., 21~cm.  (Princ\'{i}pios, 243).}
+
+\bibitem[Central do {B}rasil 1998]{riofilme1998}
+\abntrefinfo{Central\ldots}{CENTRAL\ldots}{1998}
+{CENTRAL do {B}rasil. Dire{\c c}\~ao: Walter Salles J\'unior. Produ{\c c}\~ao:
+  Martire de Clermont-Tonnerre e Artur Cohn. Roteiro: Marcos Bernstein, Jo\~ao
+  Emanuel Carneiro e Walter Salles J\'unior. Int\'{e}rpretes: Fernanda
+  Montenegro; Mar\'{i}lia Pera; Vinicius de Oliveira; S\^onia Lira; Othon
+  Bastos; Matheus Nachtergaele e outros. [S.l.]: Le Studio Canal; Riofilme;
+  MACT Productions, 1998. 1 filme (106 min), son., color., 35 mm.}
+
+\bibitem[Cesar 1994]{cesar1994}
+\abntrefinfo{Cesar}{CESAR}{1994}
+{CESAR, A.~M. \textbf{A bala e a mitra}. Recife: Baga{\c c}o, 1994. 267~p.}
+
+\bibitem[Chakrabarti e Faloutsos 2006]{Chakrabarti2006}
+\abntrefinfo{Chakrabarti e Faloutsos}{CHAKRABARTI; FALOUTSOS}{2006}
+{CHAKRABARTI, D.; FALOUTSOS, C. Graph mining: Laws, generators, and algorithms.
+\textbf{ACM Computing Surveys}, ACM, New York, NY, USA, v.~38, n.~1, p. 2--59,
+  2006.}
+
+\bibitem[Chave b\'{i}blica 1970 (impress\~ao 1994)]{biblica1970}
+\abntrefinfo{Chave\ldots}{CHAVE\ldots}{1970 (impress\~ao 1994)}
+{CHAVE b\'{i}blica. Bras\'{i}lia, DF: Sociedade B\'{i}blica do Brasil, 1970
+  (impress\~ao 1994). 511~p.}
+
+\bibitem[Chemello 1993]{chemello1993}
+\abntrefinfo{Chemello}{CHEMELLO}{1993}
+{CHEMELLO, T. \textbf{L\~as, linhas e retalhos}. 3. ed. S\~ao Paulo: Global,
+  1993. 61~p., 16~cm {$\times$}~23~cm.}
+
+\bibitem[Chueire 1994]{chueire1994}
+\abntrefinfo{Chueire}{CHUEIRE}{1994}
+{CHUEIRE, C. \textbf{Marca angelical}. Ilustra{\c c}\~ao Luciane Fadel.
+  Petr\'opolis: Vozes, 1994. 18~p., somente il., 20~cm.
+ISBN 85-326-1087-0.}
+
+\bibitem[Cipolla 1993]{cipolla1993}
+\abntrefinfo{Cipolla}{CIPOLLA}{1993}
+{CIPOLLA, S. \textbf{Eu e a escola 2{$^a$} s\'{e}rie}. S\~ao Paulo: Paulinas,
+  1993. 63~p.}
+
+\bibitem[Civitas 1995-1998]{coordena1995}
+\abntrefinfo{Civitas}{CIVITAS}{1995-1998}
+{CIVITAS. Coordena{\c c}\~ao de Sim\~ao Pedro P. Marinho. Desenvolvido pela
+  Pontif\'{i}cia Universidade Cat\'olica de Minas Gerais. 1995--1998. Apresenta
+  textos sobre urbanismo e desenvolvimento de cidades.
+Dispon{\'\i}vel em: \url{http://www.gcsnet.com/oamis/civitas}. Acesso em: 27
+  nov. 1998.\footnote{Claramente h\'a aqui um nome que desempenha papel de
+  editor, minha [de \citeonline{abnTeX22014d}] sugest\~ao para esta cita{\c
+  c}\~ao est\'a em \cite{marinho1995}.}}
+
+\bibitem[Congresso Brasileiro de Biblioteconomia e Documenta{\c c}\~ao
+  1979]{biblioteconomia1979}
+\abntrefinfo{Congresso Brasileiro de Biblioteconomia e Documenta{\c
+  c}\~ao}{CONGRESSO BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTA{\c C}\~AO}{1979}
+{CONGRESSO BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTA{\c C}\~AO, 10., 1979,
+  Curitiba. \textbf{Anais...} Curitiba: Associa{\c c}\~ao Bibliotec\'aria do
+  Paran\'a, 1979.
+3~v.}
+
+\bibitem[Congresso de Inicia{\c c}\~ao Cient\'{i}fica da {UFPe}
+  1996]{cientifica1996}
+\abntrefinfo{Congresso de Inicia{\c c}\~ao Cient\'{i}fica da {UFPe}}{CONGRESSO
+  DE INICIA{\c C}\~AO CIENT\'{i}FICA DA {UFPe}}{1996}
+{CONGRESSO DE INICIA{\c C}\~AO CIENT\'{i}FICA DA {UFPe}, 4., 1996, Recife.
+  \textbf{Anais eletr\^onicos...} Recife: UFPe, 1996.
+Dispon{\'\i}vel em: \url{http://www.propesq.ufpe.br/anais/anais.htm}. Acesso
+  em: 21 jan. 1997.}
+
+\bibitem[Conjuntura Econ\^omica. As 500 maiores empresas do {B}rasil
+  1984]{fgv1984}
+\abntrefinfo{Conjuntura\ldots}{CONJUNTURA\ldots}{1984}
+{CONJUNTURA ECON\^OMICA. As 500 maiores empresas do {B}rasil. Rio de Janeiro:
+  FGV, v.~38, n.~9, set. 1984. 135~p. Edi{\c c}\~ao Especial.}
+
+\bibitem[Costa 1998]{Cost1998}
+\abntrefinfo{Costa}{COSTA}{1998}
+{COSTA, V.~R. {\`A} margem da lei: o {P}rograma {C}omunidade {S}olid\'aria.
+\textbf{Em Pauta} --- Revista da Faculdade de Servi{\c c}o Social da UERJ, Rio
+  de Janeiro, n.~12, p. 131--148, 1998.}
+
+\bibitem[Cretella J\'unior 1992]{cretella1992}
+\abntrefinfo{Cretella J\'unior}{CRETELLA J\'UNIOR}{1992}
+{CRETELLA J\'UNIOR, J. \textbf{Do impeachment no direito brasileiro}. [S\~ao
+  Paulo]: R. dos Tribunais, 1992. ~107~p.}
+
+\bibitem[Cruvinel 1989]{cruvinel1989}
+\abntrefinfo{Cruvinel}{CRUVINEL}{1989}
+{EMBRAPA. {Unidade de Apoio, Pesquisa e Desenvolvimento de Instrumenta{\c
+  c}\~ao Agropecu\'aria (S\~ao Carlos)}. Paulo~Estev{\~a}o Cruvinel.
+  \textbf{Medidor digital multisensorial de temperatura para solos}. 1989. BR
+  n. PI 8903105-9, 26 jun. 1989, 30 maio 1995.}
+
+\bibitem[CTAN 2014]{CTAN2014}
+\abntrefinfo{CTAN}{CTAN}{2014}
+{CTAN. \textbf{The comprehensive TeX archive network}. 2014.
+Dispon{\'\i}vel em: \url{http://www.ctan.org}. Acesso em: 31 de julho de 2014.}
+
+\bibitem[Daghlian 1995]{daghalian1995}
+\abntrefinfo{Daghlian}{DAGHLIAN}{1995}
+{DAGHLIAN, J. \textbf{L\'ogica e \'algebra de {B}oole}. 4. ed. S\~ao Paulo:
+  Atlas, 1995. 167~p., 21~cm. Bibliografia: p.~166--167.
+ISBN 85-224-1256-1.}
+
+\bibitem[Dami{\~a}o e Henriques 1995]{dami1995}
+\abntrefinfo{Dami{\~a}o e Henriques}{DAMI{\~A}O; HENRIQUES}{1995}
+{DAMI{\~A}O, R. T.; HENRIQUES, A. \textbf{Curso de direito judr\'{i}dico}.
+  S\~ao Paulo: Atlas, 1995.}
+
+\bibitem[Datum Consultoria e Projetos 1996]{datum1996}
+\abntrefinfo{Datum Consultoria e Projetos}{DATUM CONSULTORIA E PROJETOS}{1996}
+{DATUM CONSULTORIA E PROJETOS. \textbf{Hotel {P}orto do {S}ol {S}\~ao {P}aulo}:
+  ar condicionado e ventila{\c c}\~ao mec\^anica: fluxograma hidr\'aulico,
+  central de \'agua gelada. 1996. Projeto final. Desenhista: Pedro. N. da obra
+  1744/96/Folha 10.}
+
+\bibitem[Desenvolvimento \& Conjuntura 1957-1968]{industria1957}
+\abntrefinfo{Desenvolvimento\ldots}{DESENVOLVIMENTO\ldots}{1957-1968}
+{DESENVOLVIMENTO \& CONJUNTURA. Rio de Janeiro: Confedera{\c c}\~ao Nacional da
+  Ind\'ustria, 1957--1968. Mensal.}
+
+\bibitem[Diagn\'ostico do setor editorial brasileiro 1993]{brasileira1993}
+\abntrefinfo{Diagn\'ostico\ldots}{DIAGN\'OSTICO\ldots}{1993}
+{DIAGN\'OSTICO do setor editorial brasileiro. S\~ao Paulo: C\^amara Brasileira
+  do Livro, 1993. 64~p.}
+
+\bibitem[Dinheiro 2000]{tres2000}
+\abntrefinfo{Dinheiro}{DINHEIRO}{2000}
+{DINHEIRO: revista semanal de neg\'ocios. S\~ao Paulo: Ed.\ Tr\^es, n.~148, 28
+  jun. 2000. 98~p.}
+
+\bibitem[Diniz 1994]{diniz1994}
+\abntrefinfo{Diniz}{DINIZ}{1994}
+{DINIZ, J. \textbf{As pupilas do senhor reitor}. 15. ed. S\~ao Paulo: \'Atica,
+  1994. 263~p.  (S\'{e}rie Bom Livro).}
+
+\bibitem[Duchamp 1918]{duchamp1918}
+\abntrefinfo{Duchamp}{DUCHAMP}{1918}
+{DUCHAMP, M. \textbf{Escultura para viajar}. 1918. 1 escultura vari\'avel,
+  borracha colorida e cordel, dimens\~oes \textit{ad lib.} Original
+  destru\'{i}do. C\'opia por Richard Hamilton, feita por ocasi\~ao da
+  retrospectiva de Duchamp na Tate Gallery (Londres) em 1966. Cole{\c c}\~ao de
+  Arturo Schwarz. T\'{i}tulo original: Sculpture for travelling.}
+
+\bibitem[Duran 1993]{duran1993}
+\abntrefinfo{Duran}{DURAN}{1993}
+{DURAN, J.~J. \textbf{Ilumina{\c c}\~ao para v\'{i}deo e cinema}. S\~ao Paulo:
+  [s.n.], 1993. 126~p., 21~cm.}
+
+\bibitem[Fagner 1988]{fagner1988}
+\abntrefinfo{Fagner}{FAGNER}{1988}
+{FAGNER, R. \textbf{Revela{\c c}\~ao}. Rio de Janeiro: CBS, 1988. 1~fita
+  cassete (60~min), 3~3/4 pps., estereo.}
+
+\bibitem[Faloutsos et al. 1999]{Faloutsos1999}
+\abntrefinfo{Faloutsos et al.}{FALOUTSOS et al.}{1999}
+{FALOUTSOS, A. et al. On power-law relationships of the internet topology. In:
+  INTERNATIONAL CONFERENCE ON TOPOLOGY AND ITS APPLICATIONS.
+  \textbf{Proceedings...} New York, NY, USA: ACM Press, 1999. p. 251--262.
+ISBN 1-58113-135-6.}
+
+\bibitem[Felipe 1994]{felipe1994}
+\abntrefinfo{Felipe}{FELIPE}{1994}
+{FELIPE, J. F.~A. \textbf{A {P}revid\^encia social na pr\'atica forense}. 4.
+  ed. Rio de Janeiro: Forense, 1994. viii, 236~p.\footnote{A \'ultima parte
+  (``viii, 236'') foi colocada num campo {\ttfamily pages}, para atender ao
+  \'{i}tem 8.7.1 da `norma' \cite{NBR6023:2002}.}}
+
+\bibitem[Ferreira 1991]{ferreira1991}
+\abntrefinfo{Ferreira}{FERREIRA}{1991}
+{FERREIRA, L. P. (Org.). \textbf{O fonoaudi\'ologo e a escola}. S\~ao Paulo:
+  Summus, 1991.}
+
+\bibitem[Figueiredo 1996]{figueirde1996}
+\abntrefinfo{Figueiredo}{FIGUEIREDO}{1996}
+{FIGUEIREDO, E. Canad\'a e {A}ntilhas: l\'{i}nguas populares, oralidade e
+  literatura.
+\textbf{Gragoat\'a}, Niter\'oi, n.~1, p. 127--136, 2. sem. 1996.}
+
+\bibitem[Figueiredo 1990]{figueiredo1990}
+\abntrefinfo{Figueiredo}{FIGUEIREDO}{1990}
+{FIGUEIREDO, N.~M. \textbf{Metodologias para a promo{\c c}\~ao do uso da
+  informa{\c c}\~ao}: t\'{e}cnicas aplicadas particularmente em bibliotecas
+  universit\'arias especializadas. S\~ao Paulo: Nobel, 1990.}
+
+\bibitem[Florenzano 1993]{florenzano1993}
+\abntrefinfo{Florenzano}{FLORENZANO}{1993}
+{FLORENZANO, E. \textbf{Dicion\'ario de id\'{e}ias semelhantes}. Rio de
+  Janeiro: Ediouro, 1993. 383~p.}
+
+\bibitem[Fraipont 1998]{fraipont1998}
+\abntrefinfo{Fraipont}{FRAIPONT}{1998}
+{FRAIPONT, E. A.~I. [sem t\'{i}tulo].
+\textbf{O Estado de S.\ Paulo}, S\~ao Paulo, 30 nov. 1998.
+Caderno 2, Visuais p. D2. 1 fot., p\&b. Foto apresentada no Projeto
+  ABRA/Coca-cola.}
+
+\bibitem[Fran{\c c}a et al. 1996]{francco1996}
+\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996a}
+{FRAN{\c C}A, J.~L. et al. \textbf{Manual para normaliza{\c c}\~ao de
+  publica{\c c}\~oes t\'{e}cnico-cient\'{i}ficas}.
+{3}. ed. rev. e aum. Belo Horizonte, 1996.\footnote{Aqui a refer{\^e}ncia
+  \citeonline{francca1996} foi formatada como {\ttfamily manual} para fins de
+  compara{\c c}\~ao.}}
+
+\bibitem[Fran{\c c}a et al. 1996]{francca1996}
+\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996b}
+{FRAN{\c C}A, J.~L. et al. \textbf{Manual para normaliza{\c c}\~ao de
+  publica{\c c}\~oes t\'{e}cnico-cient\'{i}ficas}. {3}. ed. rev. e aum. Belo
+  Horizonte: Ed. da UFMG, 1996.\footnote{Apesar de ser um manual esta entrada
+  n\~ao foi formatada aqui como {\ttfamily manual} e sim como {\ttfamily book}
+  pois n\~ao se enquadra na defini{\c c}\~ao de manual do bibtex. Veja o que
+  acontece se esta refer{\^e}ncia for formatada como {\ttfamily manual} em
+  \citeonline{francco1996}.}}
+
+\bibitem[Franco 1993]{franco1993}
+\abntrefinfo{Franco}{FRANCO}{1993}
+{FRANCO, I. \textbf{Discursos}: de outubro de 1992 a agosto de 1993.
+  Bras\'{i}lia, DF: [s.n.], 1993. 107~p.}
+
+\bibitem[Freyre 1936]{freyre1936}
+\abntrefinfo{Freyre}{FREYRE}{1936}
+{FREYRE, G. \textbf{Sobrados e mocambos}: decad\^encia do patriarcado rural no
+  brasil. S\~ao Paulo: Nacional, 1936. 405~p.}
+
+\bibitem[Freyre 1938]{freyre1938}
+\abntrefinfo{Freyre}{FREYRE}{1938}
+{FREYRE, G. \textbf{Sobrados e mocambos}: decad\^encia do patriarcado rural no
+  brasil. 2. ed. S\~ao Paulo: Nacional, 1938. 410~p.}
+
+\bibitem[Freyre 1943]{freyre1943}
+\abntrefinfo{Freyre}{FREYRE}{1943}
+{FREYRE, G. \textbf{Casa grande \& senzala}: forma{\c c}\~ao da fam\'{i}lia
+  brasileira sob regime de economia patriarcal. Rio de Janeiro: J.~Olympio,
+  1943. 2~v.}
+
+\bibitem[Galeria virtual de arte do {V}ale do {P}ara\'{i}ba 1998]{cassiano1998}
+\abntrefinfo{Galeria\ldots}{GALERIA\ldots}{1998}
+{GALERIA virtual de arte do {V}ale do {P}ara\'{i}ba. S\~ao Jos\'{e} dos Campos:
+  Funda{\c c}\~ao Cultural Cassiano Ricardo, 1998. Apresenta reprodu{\c c}\~oes
+  virtuais de obras de artistas pl\'asticos do Vale do Para\'{i}ba.
+Dispon{\'\i}vel em: \url{http://www.virtualvale.com.br/galeria}. Acesso em: 27
+  nov. 1998.}
+
+\bibitem[Gallet 1851]{gallet1851}
+\abntrefinfo{Gallet}{GALLET}{1851}
+{GALLET, L. (Org.). \textbf{Can{\c c}\~oes populares brasileiras}. Rio de
+  Janeiro: Carlos Wehns, 1851. 1 partitura (23 p.). Piano.}
+
+\bibitem[Globo Rural 1985--]{grafica1985}
+\abntrefinfo{Globo\ldots}{GLOBO\ldots}{1985--}
+{GLOBO RURAL. S\~ao Paulo: Rio Gr\'afica, 1985--. Mensal.}
+
+\bibitem[Gomes 1998]{gomes1998}
+\abntrefinfo{Gomes}{GOMES}{1998}
+{GOMES, L. G. F.~F. \textbf{Novela e sociedade no Brasil}. Niter\'oi: EdUFF,
+  1998. 137~p., 21~cm.  (Cole{\c c}\~ao Antropologia e Ci\^encia Pol\'{i}tica,
+  15). Bibliografia: p. 131--132.
+ISBN 85-228-0268-8.}
+
+\bibitem[Gomes 1995]{gomes1995}
+\abntrefinfo{Gomes}{GOMES}{1995}
+{GOMES, O. \textbf{O direito de fam\'{i}lia}. Atualiza{\c c}\~ao e notas de
+  Humberto Theodoro J\'unior. 11. ed. Rio de Janeiro: Forense, 1995. 562~p.}
+
+\bibitem[Gon{\c c}alves 1993]{alves1993}
+\abntrefinfo{Gon{\c c}alves}{GON{\c C}ALVES}{1993}
+{GON{\c C}ALVES, F.~B. \textbf{A hist\'oria de {Mirador}}. [S.l.: s.n.], 1993.}
+
+\bibitem[Gonsalves 1971]{golsalves1971}
+\abntrefinfo{Gonsalves}{GONSALVES}{1971}
+{GONSALVES, P.~E. (Org.). \textbf{A crian{\c c}a}: perguntas e respostas:
+  m\'{e}dicos, psic\'ologos, professores, t\'{e}cnicos, dentistas... Pref\'acio
+  do prof. Dr. {C}arlos da Silva Lacaz. S\~ao Paulo: Cultrix: Ed.\ da USP,
+  1971.}
+
+\bibitem[Goossens et al. 2007]{Goossens2007}
+\abntrefinfo{Goossens et al.}{GOOSSENS et al.}{2007}
+{GOOSSENS, M. et al. \textbf{The LaTeX graphics companion}. 2. ed. Boston:
+  Addison-Wesley, 2007.}
+
+\bibitem[Guncho 1998]{guncho1998}
+\abntrefinfo{Guncho}{GUNCHO}{1998}
+{GUNCHO, M.~R. A educa{\c c}\~ao \`a dist\^ancia e a biblioteca
+  universit\'aria. In:  SEMIN\'ARIO DE BIBLIOTECAS UNIVERSIT\'ARIAS, 10., 1998,
+  Fortaleza. \textbf{Anais...} Fortaleza: Tec Treina, 1998. 1~CD.}
+
+\bibitem[Gurgel 1997]{gurgel1997}
+\abntrefinfo{Gurgel}{GURGEL}{1997}
+{GURGEL, C. Reforma do estado e seguran{\c c}a p\'ublica.
+\textbf{Pol\'{i}tica e administra{\c c}\~ao}, Rio de Janeiro, v.~3, n.~2, p.
+  15--21, set. 1997.}
+
+\bibitem[Holanda 1994]{holanda1994}
+\abntrefinfo{Holanda}{HOLANDA}{1994}
+{HOLANDA, S.~B. \textbf{Caminhos e fronteiras}. 3. ed. S\~ao Paulo: Companhia
+  das Letras, 1994. 301~p., 21~cm. Inclui \'{i}ndice.
+ISBN 85-7164-411-X.}
+
+\bibitem[Houaiss 1996]{houaiss1996}
+\abntrefinfo{Houaiss}{HOUAISS}{1996}
+{HOUAISS, A. (Ed.). \textbf{Novo dicion\'ario {Folha Webster's}}:
+  ingl\^es/portugu\^es, portugu\^es/ingl\^es. Co-editor Ismael Cardim. S\~ao
+  Paulo: Folha da Manh\~a, 1996. Edi{\c c}\~ao exclusiva para o assinante da
+  Folha de S.\ Paulo.}
+
+\bibitem[IBICT 1993]{IBICT1993}
+\abntrefinfo{IBICT}{IBICT}{1993}
+{IBICT. \textbf{Manual de normas de editora{\c c}\~ao do {IBICT}}. 2. ed.
+  Bras\'{i}lia, DF, 1993. 41~p.}
+
+\bibitem[Instituto Brasileiro de Geogr\'afia e Estat\'{i}stica
+  1943--1978]{geografico1943}
+\abntrefinfo{IBGE}{IBGE}{1943--1978}
+{INSTITUTO BRASILEIRO DE GEOGR\'AFIA E ESTAT\'{i}STICA. \textbf{Boletim
+  Geogr\'afico}. Rio de Janeiro: IBGE, 1943--1978. Trimestral.}
+
+\bibitem[Instituto Geogr\'afico e Cartogr\'afico {(S\~ao Paulo, SP)}
+  1986]{geografico1986}
+\abntrefinfo{Instituto Geogr\'afico e Cartogr\'afico {(S\~ao Paulo,
+  SP)}}{INSTITUTO GEOGR\'AFICO E CARTOGR\'AFICO {(S\~ao Paulo, SP)}}{1986}
+{INSTITUTO GEOGR\'AFICO E CARTOGR\'AFICO {(S\~ao Paulo, SP)}. \textbf{Projeto
+  {L}ins {T}up\~a}: foto a\'{e}rea.
+S\~ao Paulo, 1986. Fx~28, n.~15. Escala 1:35.000.}
+
+\bibitem[Instituto Geogr\'afico e Cartogr\'afico {(S\~ao Paulo, SP)}
+  1994]{geografico1994}
+\abntrefinfo{Instituto Geogr\'afico e Cartogr\'afico {(S\~ao Paulo,
+  SP)}}{INSTITUTO GEOGR\'AFICO E CARTOGR\'AFICO {(S\~ao Paulo, SP)}}{1994}
+{INSTITUTO GEOGR\'AFICO E CARTOGR\'AFICO {(S\~ao Paulo, SP)}. \textbf{Regi\~oes
+  de governo do {E}stado de {S}\~ao {P}aulo}.
+S\~ao Paulo, 1994. Plano Cartogr\'afico do Estado de S\~ao Paulo. Escala
+  1:2.000.}
+
+\bibitem[Instituto Moreira Salles 1997]{moreira1997}
+\abntrefinfo{Instituto Moreira Salles}{INSTITUTO MOREIRA SALLES}{1997}
+{INSTITUTO MOREIRA SALLES. \textbf{S\~ao Paulo de {V}incenzo {P}astore}:
+  fotografias: de 26 de abril a 3 de agosto de 1997, {Casa da cultura de Po{\c
+  c}os de Caldas, MG}.
+[S.l.], 1997. 1 folder. Apoio Minist\'{e}rio da Cultura: Lei Federal de
+  Incentivo \`a Cultura.}
+
+\bibitem[IRL 2014]{IRL2014}
+\abntrefinfo{IRL}{IRL}{2014}
+{IRL. \textbf{Internet Research Laboratory}. 2014.
+Dispon{\'\i}vel em: \url{http://irl.cs.ucla.edu/topology}. Acesso em: 8 de
+  mar{\c c}o de 2014.}
+
+\bibitem[IUFROST International Syposium on Chemical Changes During Food
+  Processing 1984]{chemical1984}
+\abntrefinfo{IUFROST International Syposium on Chemical Changes During Food
+  Processing}{IUFROST INTERNATIONAL SYPOSIUM ON CHEMICAL CHANGES DURING FOOD
+  PROCESSING}{1984}
+{IUFROST INTERNATIONAL SYPOSIUM ON CHEMICAL CHANGES DURING FOOD PROCESSING,
+  1984, Valencia. \textbf{Proceedings...} Valencia: Instituto de Agroquimica y
+  Tecnologia de Alimentos, 1984.}
+
+\bibitem[JabRef 2014]{JabRef2014}
+\abntrefinfo{JabRef}{JABREF}{2014}
+{JABREF. \textbf{JabRef reference manager}. 2014.
+Dispon{\'\i}vel em: \url{http://jabref.sourceforge.net}. Acesso em: 8 de
+  setembro de 2014.}
+
+\bibitem[Jakubovic e Lellis 1994]{lellis1994}
+\abntrefinfo{Jakubovic e Lellis}{JAKUBOVIC; LELLIS}{1994}
+{JAKUBOVIC, J.; LELLIS, M. \textbf{Matem\'atica na medida certa, 8. s\'{e}rie}:
+  livro do professor. 2. ed. S\~ao Paulo: Scipione, 1994. 208,
+  xxi~p.\footnote{A \'ultima parte (``208, xxi'') foi colocada num campo
+  {\ttfamily pages} para atender ao \'{i}tem 8.7.1 da
+  `norma'\cite{NBR6023:2002}}}
+
+\bibitem[Johnson \& Johnson 1997]{resprinb1997}
+\abntrefinfo{Johnson \& Johnson}{JOHNSON \& JOHNSON}{1997}
+{JOHNSON \& JOHNSON. \textbf{Resprin}: comprimidos.
+Respons\'avel t\'{e}cnico Delosmar R.\ Bastos. S\~ao Jos\'{e} dos Campos, 1997.
+  Bula de rem\'{e}dio.\footnote{Esta \'{e} a nossa [de
+  \citeonline{abnTeX22014d}] sugest\~ao de formata{\c c}\~ao para a
+  refer{\^e}ncia \citeonline{delosmar1997}.}}
+
+\bibitem[Kelly 1996]{kelly1996}
+\abntrefinfo{Kelly}{KELLY}{1996}
+{KELLY, R. Electronic publishing at {APS}: its not just online journalism.
+\textbf{APS News Online}, Los Angeles, nov. 1996.
+Dispon{\'\i}vel em: \url{http://www.aps.org/apsnews/1196/11965.html}. Acesso
+  em: 25 nov. 1998.\footnote{Trata-se de um boletim informativo de sociedade
+  cient\'{i}fica (APS) e n\~ao de um jornal cient\'{i}fico como afirma a
+  `norma'. Não obstante o uso da entrada \textit{article} está absolutamente
+  correto, pois trata-se de um periódico com ISSN.}}
+
+\bibitem[Kile 2014]{Kile2014}
+\abntrefinfo{Kile}{KILE}{2014}
+{KILE. \textbf{Kile - an Integrated LaTeX Environment}. 2014.
+Dispon{\'\i}vel em: \url{http://kile.sourceforge.net/}. Acesso em: 31 de julho
+  de 2014.}
+
+\bibitem[Kobayashi 1980]{kobayashi1998}
+\abntrefinfo{Kobayashi}{KOBAYASHI}{1980}
+{KOBAYASHI, K. \textbf{Doen{\c c}a dos xavantes}. 1980.
+1 fot., color. 16 cm$\times$56 cm.}
+
+\bibitem[Koogan e Houaiss 1998]{koogan1998}
+\abntrefinfo{Koogan e Houaiss}{KOOGAN; HOUAISS}{1998}
+{KOOGAN, A.; HOUAISS, A. (Ed.). \textbf{Enciclop\'{e}dia e dicion\'ario digital
+  98}. Dire{\c c}\~ao geral de Andr\'{e} Koogan Breikman. S\~ao Paulo: Delta:
+  Estad\~ao, 1998. 5 CD-ROM. Produzida por Videolar Multim\'{i}dia.}
+
+\bibitem[Kopka e Daly 2003]{Kopka2003}
+\abntrefinfo{Kopka e Daly}{KOPKA; DALY}{2003}
+{KOPKA, H.; DALY, P.~W. \textbf{Guide to LaTeX}. 4. ed. Boston: Addison-Wesley,
+  2003.}
+
+\bibitem[Krieger, Novaes e Faria 1992]{krieger1992}
+\abntrefinfo{Krieger, Novaes e Faria}{KRIEGER; NOVAES; FARIA}{1992}
+{KRIEGER, G.; NOVAES, L.~A.; FARIA, T. \textbf{Todos os s\'ocios do
+  presidente}. 3. ed. [S.l.]: Scritta, 1992. 195~p.}
+
+\bibitem[Krzyzanowski 1996]{krzyzanowski1996}
+\abntrefinfo{Krzyzanowski}{KRZYZANOWSKI}{1996}
+{KRZYZANOWSKI, R.~F. Valor agregado no mundo da informa{\c c}\~ao: um meio de
+  criar novos espa{\c c}os competitivos a partir da tecnologia da informa{\c
+  c}\~ao e melhor satisfazer \`as necessidades dos clientes/usu\'arios. In:
+  CONGRESSO REGIONAL DE INFORMA{\c C}\~AO EM CI\^ENCIAS DA SA\'UDE, 3., 1996,
+  Rio de Janeiro. \textbf{Interliga{\c c}\~oes da tecnologia da informa{\c
+  c}\~ao}: um elo futuro. 1996. Dispon{\'\i}vel em:
+  \url{http://www.bireme.br/cgi-bin/crics3/texto?titulo=VALOR+AGREGADO+NO+MUNDO}.
+  Acesso em: 26 jan. 1999.}
+
+\bibitem[Lamport 1986]{Lamport1986}
+\abntrefinfo{Lamport}{LAMPORT}{1986}
+{LAMPORT, L. \textbf{LaTeX: a document preparation system}. Boston:
+  Addison-Wesley, 1986.}
+
+\bibitem[Landsat {TM} 5 1987--1988]{espaciais1987}
+\abntrefinfo{Landsat\ldots}{LANDSAT\ldots}{1987--1988}
+{LANDSAT {TM} 5. S\~ao Jos\'{e} dos Campos: Instituto Nacional de Pesquisas
+  Espaciais, 1987--1988. Canais 3, 4 e composi{\c c}\~ao colorida 3, 4 e 5.
+  Escala 1:100.000.}
+
+\bibitem[LaTeX 2014]{Wikibooks2014}
+\abntrefinfo{LaTeX}{LATEX}{2014a}
+{LATEX. 2014.
+Dispon{\'\i}vel em: \url{http://en.wikibooks.org/wiki/LaTeX}. Acesso em: 8 de
+  setembro de 2014.}
+
+\bibitem[LaTeX 2014]{LaTeX2014}
+\abntrefinfo{LaTeX}{LATEX}{2014b}
+{LATEX. \textbf{The LaTeX project}. 2014.
+Dispon{\'\i}vel em: \url{http://www.latex-project.org}. Acesso em: 31 de julho
+  de 2014.}
+
+\bibitem[Laurenti 1978]{laurenti1978}
+\abntrefinfo{Laurenti}{LAURENTI}{1978}
+{LAURENTI, R. \textbf{Mortalidade pr\'{e}-natal}. S\~ao Paulo: Centro
+  Brasileiro de Classifica{\c c}\~ao de Doen{\c c}as, 1978. Mimeografado.}
+
+\bibitem[Lazzarini Neto 1994]{lazzarini1994}
+\abntrefinfo{Lazzarini Neto}{LAZZARINI NETO}{1994}
+{LAZZARINI NETO, S. \textbf{Cria e recria}. [S\~ao Paulo]: SDF Editores, 1994.
+  108~p.}
+
+\bibitem[Leal 1999]{leal1999}
+\abntrefinfo{Leal}{LEAL}{1999}
+{LEAL, L.~N. {MP} fiscaliza com autonomia total.
+\textbf{Jornal do Brasil}, Rio de Janeiro, p.~3, 25 abr. 1999.}
+
+\bibitem[Leit{\~a}o 1989]{leitao1989}
+\abntrefinfo{Leit{\~a}o}{LEIT{\~A}O}{1989}
+{LEIT{\~A}O, D.~M. A informa{\c c}\~ao como insumo estrat\'{e}gico.
+\textbf{Ci.\ Inf.}, Bras\'{i}lia, DF, v.~22, n.~2, p. 118--123, mai./ago.
+  1989.}
+
+\bibitem[Leite 1994]{leite1994}
+\abntrefinfo{Leite}{LEITE}{1994}
+{LEITE, C.~B. \textbf{O s\'{e}culo do desempenho}. S\~ao Paulo: LTr, 1994.
+  160~p.}
+
+\bibitem[Levi 1997]{levi1997}
+\abntrefinfo{Levi}{LEVI}{1997}
+{LEVI, R. \textbf{Edif\'{i}cio {C}olumbus de propriedade de {L}amberto
+  {R}amengoni \`{a} {R}ua da {P}az, esquina da {A}venida {B}rigadeiro {L}uiz
+  {A}ntonio}: n. 1930-33. 1997. 108~f. Plantas diversas. Originais em papel
+  vegetal.}
+
+\bibitem[Lima 1985]{lima1985}
+\abntrefinfo{Lima}{LIMA}{1985}
+{LIMA, M. \textbf{Tem encontro com {D}eus}: teologia para leigos. Rio de
+  Janeiro: J.~Olympio, 1985.}
+
+\bibitem[Lion e Andrade 1981]{lion1981}
+\abntrefinfo{Lion e Andrade}{LION; ANDRADE}{1981}
+{LION, M.~F.; ANDRADE, J. Drogas cardiovasculares e gravidez.
+Separata de: \textbf{Arquivos Brasileiros de Cardiologia}, S\~ao Paulo, v.~37,
+  n.~2, p. 125--127, 1981.}
+
+\bibitem[Lucci 1994]{lucci1994}
+\abntrefinfo{Lucci}{LUCCI}{1994}
+{LUCCI, E.~A. \textbf{Viver e aprender}: estudos sociais, 3a. s\'{e}rie:
+  exemplar do professor. 3. ed. S\~ao Paulo: Saraiva, 1994. 96~p.}
+
+\bibitem[Lujan 1993]{lujan1993}
+\abntrefinfo{Lujan}{LUJAN}{1993}
+{LUJAN, R.~P. (Comp.). \textbf{Um presente especial}. Tradu{\c c}\~ao Sonia da
+  Silva. 3. ed. S\~ao Paulo: Aquariana, 1993. 167~p.}
+
+\bibitem[Makau 1962]{makau1962}
+\abntrefinfo{Makau}{MAKAU}{1962}
+{MAKAU, A.~B. \textbf{Esperanza de la educaci\'on hoy}. Lisboa: J. Piaget,
+  1962. Separata de: \abntreprintinfo{ wmoore1960}}
+
+\bibitem[Malagrino et al. 1985]{malagrino1985}
+\abntrefinfo{Malagrino et al.}{MALAGRINO et al.}{1985}
+{MALAGRINO, W. et al. Estudos preliminares sobre os efeitos de baixas
+  concentra{\c c}\~oes de detergentes ami\^onicos na forma{\c c}\~ao do bisso
+  em \textit{Branchidontas solisianus}. In:  CONGRESSO BRASILEIRO DE ENGENHARIA
+  SANIT\'ARIA E AMBIENTAL, 13., 1985. [S.l.], 1985. N\~ao publicado.\footnote{O
+  original [em \cite{NBR6023:2002}] difere completamente, n\~ao ficou claro
+  porque a `norma' neste caso fugiu completamente da formata{\c c}\~ao dos
+  outros exemplos.}}
+
+\bibitem[Mandino 1994]{mandino1994}
+\abntrefinfo{Mandino}{MANDINO}{1994}
+{MANDINO, O. \textbf{A universidade do sucesso}. Tradu{\c c}\~ao de Eugenia
+  Loureiro. 6. ed. Rio de Janeiro: Record, 1994. 562~p., 21~cm. T\'{i}tulo
+  original: The university of success.}
+
+\bibitem[Mansilla 1998]{mansilla1998}
+\abntrefinfo{Mansilla}{MANSILLA}{1998}
+{MANSILLA, H. C.~F. La controversia entre universalismo y particularismo en la
+  filosofia de la cultura.
+\textbf{Revista Latinoamericana de Filosofia}, Buenos Aires, v.~24, n.~2,
+  primavera 1998.}
+
+\bibitem[Marcondes e Lima 1993]{marcondes1993}
+\abntrefinfo{Marcondes e Lima}{MARCONDES; LIMA}{1993}
+{MARCONDES, E.; LIMA, I.~N. de (Coord.). \textbf{Dietas em pediatria
+  cl\'{i}nica}. 4. ed. S\~ao Paulo: Sarvier, 1993.}
+
+\bibitem[Marinho 1995-1998]{marinho1995}
+\abntrefinfo{Marinho}{MARINHO}{1995-1998}
+{MARINHO, S.~a. P.~P. (Coord.). \textbf{Civitas}. Pontif\'{i}cia Universidade
+  Cat\'{o}lica de Minas Gerais, 1995--1998.
+Apresenta textos sobre urbanismo e desenvolvimento de cidades.
+Dispon{\'\i}vel em: \url{http://www.gcsnet.com/oamis/civitas}. Acesso em: 27
+  nov. 1998.\footnote{Minha [de \citeonline{abnTeX22014d}] sugest\~{a}o para a
+  refer\^{e}ncia \cite{coordena1995}.}}
+
+\bibitem[Marins 1991]{marins1991}
+\abntrefinfo{Marins}{MARINS}{1991}
+{MARINS, J. L.~C. Massa calcificada da naso-faringe.
+\textbf{Radiologia Brasileira}, S\~ao Paulo, n.~23, 1991.
+No prelo.}
+
+\bibitem[Marques e Lanzelotte 1993]{marques1993}
+\abntrefinfo{Marques e Lanzelotte}{MARQUES; LANZELOTTE}{1993}
+{MARQUES, M.~P.; LANZELOTTE, R.~G. \textbf{Banco de dados e hiperm\'{i}dia}:
+  construindo um metamodelo para o {P}rojeto {P}ortinari. Rio de Janeiro: PUC,
+  Departamento de Inform\'atica, 1993. Pagina{\c c}\~ao irregular.}
+
+\bibitem[Martin Neto, Bayer e Mielniczuk 1997]{martin1997}
+\abntrefinfo{Martin Neto, Bayer e Mielniczuk}{MARTIN NETO; BAYER;
+  MIELNICZUK}{1997}
+{MARTIN NETO, L.; BAYER, C.; MIELNICZUK, J. Altera{\c c}\~oes qualitativas da
+  mat\'{e}ria org\^anica e os fatores determinantes da sua estabilidade num
+  solo podz\'olico vermelho-escuro em diferentes sistemas de manejo. In:
+  CONGRESSO BRASILEIRO DE CI\^ENCIA DO SOLO, 26., 1997, Rio de Janeiro.
+  \textbf{Resumos...} Rio de Janeiro: Sociedade Brasileira de Ci\^encia do
+  Solo, 1997. p.~443. Ref. 6--141.}
+
+\bibitem[Mattos 1987]{mattos1987}
+\abntrefinfo{Mattos}{MATTOS}{1987}
+{MATTOS, M.~D. \textbf{Paisagem --- {Q}uatro {B}arras}. 1987. 1 original de
+  arte, \'oleo sobre tela, 40~cm{$\times$}50~cm. Cole{\c c}\~ao particular.}
+
+\bibitem[Maturana e Varela 2003]{Maturana2003}
+\abntrefinfo{Maturana e Varela}{MATURANA; VARELA}{2003}
+{MATURANA, H.~R.; VARELA, F.~J. \textbf{A \'{A}rvore do Conhecimento}: as bases
+  biol\'{o}gicas da compreens\~{a}o humana. 3. ed. S\~ao Paulo: Editora Palas
+  Athena, 2003.}
+
+\bibitem[Mendeley 2014]{Mendeley2014}
+\abntrefinfo{Mendeley}{MENDELEY}{2014}
+{MENDELEY. \textbf{Mendeley}: academic software for research papers. 2014.
+Dispon{\'\i}vel em: \url{http://www.mendeley.com}. Acesso em: 31 de julho de
+  2014.}
+
+\bibitem[Microsoft {P}roject for {W}indows 95, version 4.1 1995]{microsoft1995}
+\abntrefinfo{Microsoft\ldots}{MICROSOFT\ldots}{1995}
+{MICROSOFT {P}roject for {W}indows 95, version 4.1: project planning software.
+  [S.l.]: Microsoft Corporation, 1995. Conjunto de programas. 1 CD-ROM.}
+
+\bibitem[Miglori 1993]{miglori1993}
+\abntrefinfo{Miglori}{MIGLORI}{1993}
+{MIGLORI, R. \textbf{Paradigmas e educa{\c c}\~ao}. S\~ao Paulo: Aquariana,
+  1993. v.~1. 20~p., 23~cm.  (Vis\~ao do futuro, v.~1).}
+
+\bibitem[Mittelbach et al. 2004]{Mittelbach2004}
+\abntrefinfo{Mittelbach et al.}{MITTELBACH et al.}{2004}
+{MITTELBACH, F. et al. \textbf{The LaTeX companion}. 2. ed. Boston:
+  Addison-Wesley, 2004.}
+
+\bibitem[Moore 1960]{wmoore1960}
+\abntrefinfo{Moore}{MOORE}{1960a}
+{MOORE, W. (Ed.). \textbf{Construtivismo del movimiento educacional}:
+  soluciones. C\'{o}rdoba, AR: [s.n.], 1960. 309-340~p.\footnote{No original
+  [em \cite{NBR6023:2002}] aparecem dois campos address/publisher. A segunda
+  ocorr\^{e}ncia desses campos por enquanto \'{e} ignorada pelo estilo.}}
+
+\bibitem[Moore 1960]{moore1960}
+\abntrefinfo{Moore}{MOORE}{1960b}
+{MOORE, W. (Ed.). \textbf{Construtivismo del movimiento educacional}:
+  soluciones. C\'{o}rdoba, AR: [s.n.], 1960.}
+
+\bibitem[Morgado 1990]{morgado1990}
+\abntrefinfo{Morgado}{MORGADO}{1990a}
+{MORGADO, M. L.~C.
+\textbf{Reimplante dent\'ario}.
+Julho 1990. 51~f. Monografia (Especializa{\c c}\~ao em Cirurgia e Ortodontia)
+  --- Faculdade de Odontologia, Universidade Camilo Castelo Branco, S\~ao
+  Paulo, 1990.}
+
+\bibitem[Morgado 1990]{morgado1990b}
+\abntrefinfo{Morgado}{MORGADO}{1990b}
+{MORGADO, M. L.~C.
+\textbf{Reimplante dent\'ario}.
+Novembro 1988. 51~f. Monografia (Especializa{\c c}\~ao em Cirurgia e
+  Ortodontia) --- Faculdade de Odontologia, Universidade Camilo Castelo Branco,
+  S\~ao Paulo, 1990.}
+
+\bibitem[{MPB} especial c1995]{globo1995}
+\abntrefinfo{{MPB}\ldots}{{MPB}\ldots}{c1995}
+{{MPB} especial. [Rio de Janeiro]: Globo: Movieplay, c1995. 1 CD (50 min).
+ (Globo collection, 2).}
+
+\bibitem[Museu~da~Imigra{\c c}\~ao {(S\~ao Paulo, SP)} 1997]{museu1997}
+\abntrefinfo{Museu~da~Imigra{\c c}\~ao {(S\~ao Paulo, SP)}}{MUSEU~DA~IMIGRA{\c
+  C}\~AO {(S\~ao Paulo, SP)}}{1997}
+{MUSEU~DA~IMIGRA{\c C}\~AO {(S\~ao Paulo, SP)}. \textbf{Museu da Imigra{\c
+  c}\~ao --- S. Paulo}: cat\'alogo.
+S\~ao Paulo, 1997. 16~p.}
+
+\bibitem[Naves 1999]{naves1999}
+\abntrefinfo{Naves}{NAVES}{1999}
+{NAVES, P. Lagos andinos d\~ao banho de belexa.
+\textbf{Folha de S.\ Paulo}, S\~ao Paulo, 28 jun. 1999.
+Folha Turismo, Caderno 8, p.~13.}
+
+\bibitem[Neubert 2001]{Neubert2001}
+\abntrefinfo{Neubert}{NEUBERT}{2001}
+{NEUBERT, M.~S.
+\textbf{Algoritmos Distribu\'{i}dos para a Constru{\c c}\~ao de Arquivos
+  Invertidos}.
+Mar{\c c}o 2001. 145~f. Tese (Doutorado em Ci{\^e}ncia da Computa{\c c}\~ao)
+  --- Departamento de Computa{\c c}\~ao, Universidade Federal de Minas Gerais,
+  Belo Horizonte, 2001.}
+
+\bibitem[O~descobrimento do {B}rasil 1985]{souza1985}
+\abntrefinfo{O~descobrimento\ldots}{O~DESCOBRIMENTO\ldots}{1985}
+{O~DESCOBRIMENTO do {B}rasil. Fotografia de Carmem Souza. Grava{\c c}\~ao de
+  Marcos Louren{\c c}o. S\~ao Paulo: CERAVI, 1985. 31 diapositivos: color. + 1
+  fita cassete sonoro (15 min) mono.}
+
+\bibitem[O~que acreditar em rela{\c c}\~ao \`a maconha 1985]{ceravi1985}
+\abntrefinfo{O~que\ldots}{O~QUE\ldots}{1985}
+{O~QUE acreditar em rela{\c c}\~ao \`a maconha. S\~ao Paulo: CERAVI, 1985. 22
+  transpar\^encias, color., 25 cm$\times$20 cm.}
+
+\bibitem[Oliveira 2013]{Oliveira2013}
+\abntrefinfo{Oliveira}{OLIVEIRA}{2013}
+{OLIVEIRA, F.~M. Comunicação pessoal privada. Em mai./2013 indicou do uso da
+  técnica de álgebra de semigrupos para resolver a equação Fokker-Planck.
+  2013.}
+
+\bibitem[Os~grandes cl\'assicos das poesias l\'{i}ricas 1981]{libris1981}
+\abntrefinfo{Os~grandes\ldots}{OS~GRANDES\ldots}{1981}
+{OS~GRANDES cl\'assicos das poesias l\'{i}ricas. [S.l.]: Ex Libris, 1981.
+  60~f.}
+
+\bibitem[Os~perigos do uso de t\'oxicos 1983]{ceravi1983}
+\abntrefinfo{Os~perigos\ldots}{OS~PERIGOS\ldots}{1983}
+{OS~PERIGOS do uso de t\'oxicos. Produ{\c c}\~ao de Jorge Ramos de Andrade.
+  Coordena{\c c}\~ao de Maria Izabel Azevedo. S\~ao Paulo: CERAVI, 1983. 1 fita
+  de v\'{i}deo (30 min), VHS, son., color.}
+
+\bibitem[Passos, Fonseca e Chaves 1995]{passos1995}
+\abntrefinfo{Passos, Fonseca e Chaves}{PASSOS; FONSECA; CHAVES}{1995}
+{PASSOS, L. M.~M.; FONSECA, A.; CHAVES, M. \textbf{Alegria de saber}:
+  matem\'atica, segunda s\'{e}rie, 2, primeiro grau: livro do professor. S\~ao
+  Paulo: Scipione, 1995. 136~p.}
+
+\bibitem[Pastro 1993]{pastro1993}
+\abntrefinfo{Pastro}{PASTRO}{1993}
+{PASTRO, C. \textbf{Arte sacra}: espa{\c c}o sagrado hoje. S\~ao Paulo: Loyola,
+  1993. 343~p.}
+
+\bibitem[Pau no gato! Por qu\^e? 1990]{sony1990}
+\abntrefinfo{Pau\ldots}{PAU\ldots}{1990}
+{PAU no gato! Por qu\^e? Rio de Janeiro: Sony Music Book Case Multimedia
+  Educational, 1990. 1 CD-ROM. Windows 3.1.}
+
+\bibitem[Pedrosa 1995]{pedrosa1995}
+\abntrefinfo{Pedrosa}{PEDROSA}{1995}
+{PEDROSA, I. \textbf{Da cor \`a cor inexistente}. 6. ed. Rio de Janeiro:
+  L.~Cristiano, 1995. 219~p.}
+
+\bibitem[Pelosi 1993]{pelosi1993}
+\abntrefinfo{Pelosi}{PELOSI}{1993}
+{PELOSI, T. \textbf{O caminho das cordas}. Rio de Janeiro: Anais, 1993. 158~p.,
+  21~cm. Bibliografia: p. 115--158.}
+
+\bibitem[Perfil da administra{\c c}\~ao p\'ublica paulista 1994]{FUNDAP1994}
+\abntrefinfo{Perfil\ldots}{PERFIL\ldots}{1994}
+{PERFIL da administra{\c c}\~ao p\'ublica paulista. 6. ed. S\~ao Paulo: FUNDAP,
+  1994. 317~p., 28~cm. Inclui \'{i}ndice.
+ISBN 85-7285-026-0.}
+
+\bibitem[Pesquisa Nacional por amostra de domic\'{i}lios. M\~ao-de-obra e
+  previd\^encia 1983]{ibge1983}
+\abntrefinfo{Pesquisa\ldots}{PESQUISA\ldots}{1983}
+{PESQUISA NACIONAL POR AMOSTRA DE DOMIC\'{i}LIOS. M\~ao-de-obra e
+  previd\^encia. Rio de Janeiro: IBGE, v.~7, 1983. Suplemento.}
+
+\bibitem[Piaget 1980]{piaget1980}
+\abntrefinfo{Piaget}{PIAGET}{1980}
+{PIAGET, J. \textbf{Para onde vai a educa{\c c}\~ao}. 7. ed. Rio de Janeiro:
+  J.~Olympio, 1980. 500~p.}
+
+\bibitem[Pol\'{i}tica 1998]{priberam1998}
+\abntrefinfo{Pol\'{i}tica}{POL\'{i}TICA}{1998}
+{POL\'{i}TICA.
+In:  DICION\'ARIO da l\'{i}ngua portuguesa. Lisboa: Priberam Inform\'atica,
+  1998.
+Dispon{\'\i}vel em: \url{http://www.priberam.pt/dlDLPO}. Acesso em: 8 mar.
+  1999.}
+
+\bibitem[Queiroz 2014]{Queiroz2014}
+\abntrefinfo{Queiroz}{QUEIROZ}{2014}
+{QUEIROZ, D. \textbf{Dicas: nomes no BibTeX}. 2014.
+Dispon{\'\i}vel em:
+  \url{http://www.lti.pcs.usp.br/~diego/blog/pt/nomes-bibtex.html}. Acesso em:
+  24 de setembro de 2014.}
+
+\bibitem[Rego 1991]{rego1991}
+\abntrefinfo{Rego}{REGO}{1991}
+{REGO, L. L.~B. O desenvolvimento cognitivo e a prontid\~ao para alfabetiza{\c
+  c}\~ao. In:  CARRARO, T.~N. (Org.). \textbf{Aprender pensando}. 6. ed.
+  Petr\'opolis: Vozes, 1991. p. 31--40.}
+
+\bibitem[Resprin 1997]{delosmar1997}
+\abntrefinfo{Resprin}{RESPRIN}{1997}
+{RESPRIN: comprimidos. Respons\'avel t\'{e}cnico Delosmar R.\ Bastos. S\~ao
+  Jos\'{e} dos Campos: Johnson \& Johnson, 1997.
+Bula de rem\'{e}dio.\footnote{N\~ao sabemos porque na `norma' foi formatado
+  desse jeito. Seria mais sensato colocar a empresa como autora e formatar como
+  {\ttfamily manual}. Afinal o que \'{e} uma bula sen\~ao um manual? Veja na
+  refer{\^e}ncia \citeonline{resprinb1997} a nossa [de
+  \citeonline{abnTeX22014d}] sugest\~ao de formata{\c c}\~ao.}}
+
+\bibitem[Reuni\~ao Anual da Sociedade Brasileira de Qu\'{i}mica
+  1997]{quimica1997}
+\abntrefinfo{Reuni\~ao Anual da Sociedade Brasileira de Qu\'{i}mica}{REUNI\~AO
+  ANUAL DA SOCIEDADE BRASILEIRA DE QU\'{i}MICA}{1997}
+{REUNI\~AO ANUAL DA SOCIEDADE BRASILEIRA DE QU\'{i}MICA, 20., 1997, Po{\c c}os
+  de Caldas. \textbf{Qu\'{i}mica}: academia, ind\'ustria, sociedade: livro de
+  resumos. S\~ao Paulo: Sociedade Brasileira de Qu\'{i}mica, 1997.}
+
+\bibitem[Revista Brasileira de Biblioteconomia e documenta{\c c}\~ao
+  1973--1992]{febab1973}
+\abntrefinfo{Revista\ldots}{REVISTA\ldots}{1973--1992}
+{REVISTA BRASILEIRA DE BIBLIOTECONOMIA E DOCUMENTA{\c C}\~AO. S\~ao Paulo:
+  FEBAB, 1973--1992.}
+
+\bibitem[Revista Brasileira de Geografia 1939--]{brasileira1939}
+\abntrefinfo{Revista Brasileira de Geografia}{REVISTA BRASILEIRA DE
+  GEOGRAFIA}{1939--}
+{REVISTA BRASILEIRA DE GEOGRAFIA. \textbf{[Sem T\'{i}tulo]}. Rio de Janeiro:
+  IBGE, 1939--. Trimestral. Absorveu Boletim Geogr\'afico do IBGE. \'{i}ndice
+  acumulado. 1939--1983.
+ISSN 0034-723X.}
+
+\bibitem[Ribeiro 1998]{ribeiro1998}
+\abntrefinfo{Ribeiro}{RIBEIRO}{1998}
+{RIBEIRO, P. S.~G. Ado{\c c}\~ao \`a brasileira: uma an\'alise
+  s\'ocio-jur\'{i}dica.
+\textbf{Datavenia}, S\~ao Paulo, ano~3, n.~18, ago. 1998.
+Dispon{\'\i}vel em: \url{http://www.datavenia.inf.br/frameartig.html}. Acesso
+  em: 10 set. 1998.}
+
+\bibitem[Rodrigues 1994]{rodrigues1994}
+\abntrefinfo{Rodrigues}{RODRIGUES}{1994}
+{RODRIGUES, A. \textbf{Teatro completo}. Organiza{\c c}\~ao geral e pref\'acio
+  S\'abato Magaldi. Rio de Janeiro: Nova Aguilar, 1994. 1134~p., 19~cm.
+  (Biblioteca luso-brasileira. S\'{e}rie brasileira).}
+
+\bibitem[Romano 1996]{romano1996}
+\abntrefinfo{Romano}{ROMANO}{1996}
+{ROMANO, G. Imagens da juventude na era moderna. In:  LEVI, G.; SCHMIDT, J.
+  (Org.). \textbf{Hist\'oria dos jovens 2}: a \'{e}poca contempor\^anea. S\~ao
+  Paulo: Companhia das Letras, 1996. p. 7--16.}
+
+\bibitem[Ruch 1926-1940]{ruch1926}
+\abntrefinfo{Ruch}{RUCH}{1926-1940}
+{RUCH, G. \textbf{Hist\'oria geral da civiliza{\c c}\~ao}: da {A}ntig\"uidade
+  ao {XX} s\'{e}culo. Rio de Janeiro: F. Briguiet, 1926--1940. 4~v., il.,
+  19~cm.}
+
+\bibitem[S\~ao Paulo {(Estado)} 1998]{lex1998}
+\abntrefinfo{S\~ao Paulo {(Estado)}}{S\~AO PAULO {(Estado)}}{1998}
+{S\~AO PAULO {(Estado)}. Decreto n{$^o$} 42.822, de 20 de janeiro de 1998.
+  {D}isp\~oe sobre a desativa{\c c}\~ao de unidades administrativas de
+  \'org\~aos da administra{\c c}\~ao direta e das autarquias do {E}estado e
+  d\'a provid\^encias correlatas.
+\textbf{Lex} --- Colet\^anea de Legisla{\c c}\~ao e Jurisprud\^encia, S\~ao
+  Paulo, v.~62, n.~3, p. 217--220, 1998.}
+
+\bibitem[S\~ao Paulo {(Estado). Secretaria do Meio Ambiente.}
+  1993]{secretaria1993}
+\abntrefinfo{S\~ao Paulo {(Estado). Secretaria do Meio Ambiente.}}{S\~AO PAULO
+  {(Estado). Secretaria do Meio Ambiente.}}{1993}
+{S\~AO PAULO {(Estado). Secretaria do Meio Ambiente.} \textbf{Diretrizes para a
+  politica ambiental do {E}stado de {S}\~ao {P}aulo}.
+S\~ao Paulo, 1993. 35~p.}
+
+\bibitem[S\~ao Paulo {(Estado). Secretaria do Meio Ambiente}
+  1999]{secretaria1999}
+\abntrefinfo{S\~ao Paulo {(Estado). Secretaria do Meio Ambiente}}{S\~AO PAULO
+  {(Estado). Secretaria do Meio Ambiente}}{1999}
+{S\~AO PAULO {(Estado). Secretaria do Meio Ambiente}. Tratados e organiza{\c
+  c}\~oes ambientais em mat\'{e}ria de meio ambiente.
+In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{Entendendo o meio ambiente}. S\~ao
+  Paulo, 1999. v.~1.
+Dispon{\'\i}vel em: \url{http://www.bdt.org.br/sma/entendendo/atual.htm}.
+  Acesso em: 8 mar. 1999.}
+
+\bibitem[S\~ao Paulo {(Estado). Secretaria do Meio Ambiente. Coordenadoria de
+  Planejamento Ambiental.} 1989]{secretaria1989}
+\abntrefinfo{S\~ao Paulo {(Estado). Secretaria do Meio Ambiente. Coordenadoria
+  de Planejamento Ambiental.}}{S\~AO PAULO {(Estado). Secretaria do Meio
+  Ambiente. Coordenadoria de Planejamento Ambiental.}}{1989}
+{S\~AO PAULO {(Estado). Secretaria do Meio Ambiente. Coordenadoria de
+  Planejamento Ambiental.} \textbf{Estudo de impacto ambiental --- {EIA}
+  Relat\'orio de Impacto ambiental --- {RIMA}}: manual de orienta{\c c}\~ao.
+S\~ao Paulo, 1989. 48~p.  (S\'{e}rie Manuais).}
+
+\bibitem[S\~ao Paulo Medical Journal=Revista Paulista de Medicina
+  1941--]{paulista1941}
+\abntrefinfo{S\~ao Paulo Medical Journal=Revista Paulista de Medicina}{S\~AO
+  PAULO MEDICAL JOURNAL=REVISTA PAULISTA DE MEDICINA}{1941--}
+{S\~AO PAULO MEDICAL JOURNAL=REVISTA PAULISTA DE MEDICINA. \textbf{[Sem
+  T\'{i}tulo]}. S\~ao Paulo: Associa{\c c}\~ao Paulista de Medicina, 1941--.
+  Bimensal.
+ISSN 0035-0362.}
+
+\bibitem[Saadi 1944]{saadi1994}
+\abntrefinfo{Saadi}{SAADI}{1944}
+{SAADI. \textbf{O jardim das rosas...} Tradu{\c c}\~ao de Aur\'{e}lio Buarque
+  de Holanda. Rio de Janeiro: J. Olympio, 1944. 124~p.  (Cole{\c c}\~ao
+  Rubaiyat). Vers\~ao francesa de: Franz Toussaint. Original \'arabe.}
+
+\bibitem[Sabroza 1998]{sabroza1998}
+\abntrefinfo{Sabroza}{SABROZA}{1998}
+{SABROZA, P.~C. Globaliza{\c c}\~ao e sa\'ude: impacto nos perfis
+  epidemiol\'ogicos das popula{\c c}\~oes. In:  CONGRESSO BRASILEIRO DE
+  EPIDEMIOLOGIA, 4., 1998, Rio de Janeiro. \textbf{Anais eletr\^onicos...} Rio
+  de Janeiro: ABRASCO, 1998. Mesa-redonda. Dispon{\'\i}vel em:
+  \url{http://www.abrasco.com.br/epirio98/}. Acesso em: 17 jan. 1999.}
+
+\bibitem[Sam\'u 1977]{samu1977}
+\abntrefinfo{Sam\'u}{SAM\'U}{1977}
+{SAM\'U, R. \textbf{Vit\'oria}: 18:35 h. 1977. 1 grav., serigraf., color., 46
+  cm$\times$63 cm. Cole{\c c}\~ao Particular.}
+
+\bibitem[Santos 2003]{Santos2003}
+\abntrefinfo{Santos}{SANTOS}{2003}
+{SANTOS, B.~A.
+\textbf{Aspectos Conceituais e Arquiteturais para a Cria{\c c}\~ao de Linhagens
+  de Agentes de Software Cognitivos e Situados}.
+Junho 2003. 130~f. Disserta\c{c}\~{a}o (Mestrado em Tecnologia -- Nome da
+  \'{a}rea de concentra{\c c}\~ao) --- Centro Federal de Educa{\c c}\~ao
+  Tecnol\'{o}gica de Minas Gerais, Belo Horizonte, 2003.}
+
+\bibitem[Santos 1994]{santos1994}
+\abntrefinfo{Santos}{SANTOS}{1994}
+{SANTOS, F.~R. dos. A coloniza{\c c}\~ao da terra do {T}ucuj\'us.
+In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{Hist\'oria do Amap\'a, {1$^o$}
+  grau}. 2. ed. Macap\'a: Valcan, 1994. cap.~3, p. 15--24.}
+
+\bibitem[Schaum 1956]{schaum1956}
+\abntrefinfo{Schaum}{SCHAUM}{1956}
+{SCHAUM, D. \textbf{Schaum's outline of theory and problems}. 5th. ed. New
+  York: Schaum Publishing, 1956. 204~p.}
+
+\bibitem[Silva 1996]{silva1996}
+\abntrefinfo{Silva}{SILVA}{1996}
+{SILVA, D.~P. \textbf{Vocabul\'ario jur\'{i}dico}. 4. ed. Rio de Janeiro:
+  Forense, 1996. 5~v. em~3.}
+
+\bibitem[Silva 1988]{silva1988}
+\abntrefinfo{Silva}{SILVA}{1988}
+{SILVA, E.~T. [sem t\'{i}tulo].
+\textbf{Ci.\ Inf.}, Bras\'{i}lia, DF, v.~17, n.~2, jul./dez. 1988.}
+
+\bibitem[Silva Filho e Souza J\'{u}nior 2013]{Silva2013}
+\abntrefinfo{Silva Filho e Souza J\'{u}nior}{SILVA FILHO; SOUZA
+  J\'{u}NIOR}{2013}
+{SILVA FILHO, A.~J.; SOUZA J\'{u}NIOR, J.
+\textbf{T\'{e}cnicas Modernas de Intelig\^{e}ncia Artificial}: conceitos e
+  aplica{\c c}\~{o}es.
+Agosto 2013. 78~f. Monografia (Gradua{\c c}\~{a}o em Engenharia de Computa{\c
+  c}\~{a}o) --- Departamento de Computa{\c c}\~{a}o, Centro Federal de Educa{\c
+  c}\~{a}o Tecnol\'{o}gica de Minas Gerais, Belo Horizonte, 2013.}
+
+\bibitem[Silva 1998]{gsilva1998}
+\abntrefinfo{Silva}{SILVA}{1998}
+{SILVA, I.~G. Pena de morte para o nasciturno.
+\textbf{O Estado de S.~Paulo}, S\~ao Paulo, 19 set. 1998.
+Dispon{\'\i}vel em:
+  \url{http://www.providafamilia.org/pena\_morte\_nasciturno.htm}. Acesso em:
+  10 set. 1998.}
+
+\bibitem[Silva e Souza 2000]{Silva2000}
+\abntrefinfo{Silva e Souza}{SILVA; SOUZA}{2000}
+{SILVA, J.; SOUZA, J.~a.~L. \textbf{A Intelig{\^e}ncia da Complexidade}. S\~ao
+  Paulo: Editora Petr\'{o}polis, 2000.}
+
+\bibitem[Silva 1991]{silva1991}
+\abntrefinfo{Silva}{SILVA}{1991}
+{SILVA, L. I.~L. da. \textbf{{L}uiz {I}n\'acio {L}ula da {S}ilva}: depoimento
+  [abr. 1991]. Entrevistadores: V. Tremel e M. Garcia. S\~ao Paulo: SENAI-SP,
+  1991. 2~fitas cassete (120~min), 3~3/4 pps, estero. Entrevista concedida ao
+  Projeto Mem\'oria do SENAI-SP.}
+
+\bibitem[Silva 1998]{silva1998}
+\abntrefinfo{Silva}{SILVA}{1998}
+{SILVA, M. M.~L. Crimes da era digital.
+\textbf{.Net}, Rio de Janeiro, nov. 1998.
+Se{\c c}\~ao Ponto de Vista.
+Dispon{\'\i}vel em:
+  \url{http://www.brazilnet.com.br/contexts/brasilrevistas.htm}. Acesso em: 28
+  nov. 1998.}
+
+\bibitem[Silva e Oliveira 1996]{oliveira1996}
+\abntrefinfo{Silva e Oliveira}{SILVA; OLIVEIRA}{1996}
+{SILVA, R.~N.; OLIVEIRA, R. Os limites pedag\'ogicos do paradigma da qualidade
+  total na educa{\c c}\~ao. In:  CONGRESSO DE INICIA{\c C}\~AO CIENT\'{i}FICA
+  DA {UFPe}, 4., 1996, Recife. \textbf{Anais eletr\^onicos...} Recife: UFPe,
+  1996. Dispon{\'\i}vel em:
+  \url{http://www.propesq.ufpe.br/anais/anais/educ/ce04.htm}. Acesso em: 21
+  jan. 1997.}
+
+\bibitem[Simone p1977]{simone1977}
+\abntrefinfo{Simone}{SIMONE}{p1977a}
+{SIMONE. \textbf{Face a face}. [S.l.]: Emi-Odeon Brasil, p1977. 1~CD (ca.
+  40~min). Remasterizado em digital.}
+
+\bibitem[Simone p1977]{simonej1977}
+\abntrefinfo{Simone}{SIMONE}{p1977b}
+{SIMONE. Jura secreta. {S. Costa, A. Silva. [Compositores]}.
+In:  \underline{\ \ \ \ \ \ \ \ }. \textbf{Face a face}. [S.l.]: Emi-Odeon
+  Brasil, p1977.
+1 CD (ca. 40 min). Faixa 7 (4 min 22 s). Remasterizado em digital.}
+
+\bibitem[Simp\'osio Brasileiro de Redes de Computadores 1995]{redes1995}
+\abntrefinfo{Simp\'osio Brasileiro de Redes de Computadores}{SIMP\'OSIO
+  BRASILEIRO DE REDES DE COMPUTADORES}{1995}
+{SIMP\'OSIO BRASILEIRO DE REDES DE COMPUTADORES, 13., 1995, Belo Horizonte.
+  \textbf{Anais...} Belo Horizonte: UFMG, 1995. 655~p.}
+
+\bibitem[Sistema de ensino {T}amandar\'{e} 1993]{tamandare1993}
+\abntrefinfo{Sistema\ldots}{SISTEMA\ldots}{1993}
+{SISTEMA de ensino {T}amandar\'{e}: sargentos do {E}x\'{e}rcito e da
+  {A}eron\'autica. [Rio de Janeiro]: Col\'{e}gio Curso Tamandar\'{e}, 1993.
+  N\~ao paginado.}
+
+\bibitem[Souza 2012]{Souza2012}
+\abntrefinfo{Souza}{SOUZA}{2012}
+{SOUZA, C.~L.
+\textbf{Recupera{\c c}\~ao de V\'{i}deos Baseada em Conte\'{u}do em um Sistema
+  de Informa{\c c}\~ao para Apoio \`{a} An\'{a}lise do Discurso Televisivo}.
+Outubro 2011. 130~f. Disserta\c{c}\~{a}o (Mestrado em Modelagem Matem\'{a}tica
+  e Computacional -- Sistemas Inteligentes) --- Centro Federal de Educa{\c
+  c}\~ao Tecnol\'{o}gica de Minas Gerais, Belo Horizonte, 2012.}
+
+\bibitem[Souza, Borges e Rezende 1994]{souza1994}
+\abntrefinfo{Souza, Borges e Rezende}{SOUZA; BORGES; REZENDE}{1994}
+{SOUZA, L.~S.; BORGES, A.~L.; REZENDE, J.~O. Influ\^encia da corre{\c c}\~ao e
+  do preparo do solo sobre algumas propriedades qu\'{i}micas do solo cultivado
+  com bananeiras. In:  REUNI\~AO BRASILEIRA DE FERTILIDADE DO SOLO E NUTRI{\c
+  C}\~AO DE PLANTAS, 21., 1994, Petrolina. \textbf{Anais...} Petrolina:
+  EMPRAPA, CATSA, 1994. p.~3--4.}
+
+\bibitem[Swokowski 1994]{swokowski1994}
+\abntrefinfo{Swokowski}{SWOKOWSKI}{1994}
+{SWOKOWSKI, E.~W. \textbf{C\'alculo com geometria anal\'{i}tica}. Tradu{\c
+  c}\~ao de Alfredo Alves de Faria. Revis\~ao t\'{e}cnica Antonio Pertence
+  J\'unior. 2. ed. S\~ao Paulo: Makron Books do Brasil, 1994. 2~v.}
+
+\bibitem[Tabak 1993]{tabak1993}
+\abntrefinfo{Tabak}{TABAK}{1993}
+{TABAK, F. \textbf{A lei como instrumento de mudan{\c c}a social}. Fortaleza:
+  Funda{\c c}\~ao Waldemar Alc\^antara, 1993. 17~f.}
+
+\bibitem[Ta{\c{c}}a de vidro \`a maneira de {V}eneza, com a imagem de {N}ossa
+  {S}enhora e o menino no fuste tamb\'{e}m decorado com detalhes azuis
+  17--?]{europa0000}
+\abntrefinfo{Ta{\c{c}}a\ldots}{TA{\c{C}}A\ldots}{17--?}
+{TA{\c{C}}A de vidro \`a maneira de {V}eneza, com a imagem de {N}ossa {S}enhora
+  e o menino no fuste tamb\'{e}m decorado com detalhes azuis. 17--? Europa,
+  s\'{e}c. XVIII-XIX, 10,7 cm de di\^am. $\times$ 24,5 cm de alt.}
+
+\bibitem[TeX-BR 2014]{TeX-Br2014}
+\abntrefinfo{TeX-BR}{TEX-BR}{2014}
+{TEX-BR. \textbf{Comunidade TeX-Br}. 2014.
+Dispon{\'\i}vel em: \url{http://www.tex-br.org/index.php}. Acesso em: 31 de
+  julho de 2014.}
+
+\bibitem[{TeX Live} 2014]{TeXLive2014}
+\abntrefinfo{{TeX Live}}{{TeX Live}}{2014}
+{{TeX Live}. \textbf{TeX Live}. 2014.
+Dispon{\'\i}vel em: \url{http://tug.org/texlive/}. Acesso em: 31 de julho de
+  2014.}
+
+\bibitem[TeXnicCenter 2014]{TeXnicCenter2014}
+\abntrefinfo{TeXnicCenter}{TEXNICCENTER}{2014}
+{TEXNICCENTER. \textbf{TeX nicCenter}: the center of your latex universe. 2014.
+Dispon{\'\i}vel em: \url{http://www.texniccenter.org}. Acesso em: 31 de julho
+  de 2014.}
+
+\bibitem[TeXstudio 2014]{TeXstudio2014}
+\abntrefinfo{TeXstudio}{TEXSTUDIO}{2014}
+{TEXSTUDIO. \textbf{TeXstudio}: Latex made comfortable. 2014.
+Dispon{\'\i}vel em: \url{http://texstudio.sourceforge.net/}. Acesso em: 31 de
+  julho de 2014.}
+
+\bibitem[Torelly 1991]{torelly1991}
+\abntrefinfo{Torelly}{TORELLY}{1991}
+{TORELLY, M. \textbf{Almanaque para 1949}: primeiro semestre ou {A}lmanaque
+  d'{A} {M}anh\~a. Ed. fac-sim. S\~ao Paulo: Studioma: Arquivo do Estado, 1991.
+   (Cole{\c c}\~ao Almanaques do Bar\~ao de Itarar\'{e}). Cont\'{e}m
+  iconografia e depoimentos sobre o autor.}
+
+\bibitem[Tourinho Filho 1994]{tourinho1994}
+\abntrefinfo{Tourinho Filho}{TOURINHO FILHO}{1994}
+{TOURINHO FILHO, F.~C. \textbf{Processo penal}. {16.} ed. rev. e atual. S\~ao
+  Paulo: Saraiva, 1994. 4~v.\footnote{Aqui tivemos [\citeonline{abnTeX22014d}]a
+  necessidade de `enganar' o estilo bibliogr\'afico. Quando o campo edition
+  inicia por um n\'umero o estilo adiciona autom\'aticamente um "ed.". Neste
+  caso colocamos o n\'umero entre chaves o que resolveu o problema.}}
+
+\bibitem[Tourinho Neto 1997]{tourinho1997}
+\abntrefinfo{Tourinho Neto}{TOURINHO NETO}{1997}
+{TOURINHO NETO, F.~C. Dano ambiental.
+\textbf{Consulex} --- Revista Jur\'{i}dica, Bras\'{i}lia, DF, ano~1, n.~1, p.
+  18--23, fev. 1997.}
+
+\bibitem[Tringali 1994]{tringali1994}
+\abntrefinfo{Tringali}{TRINGALI}{1994}
+{TRINGALI, D. \textbf{Escolas liter\'arias}. S\~ao Paulo: Musa, 1994. 246~p.,
+  21~cm. Inclui bibliografias.}
+
+\bibitem[Universidade de S\~ao Paulo 1993]{universidade1993}
+\abntrefinfo{Universidade de S\~ao Paulo}{UNIVERSIDADE DE S\~AO PAULO}{1993}
+{UNIVERSIDADE DE S\~AO PAULO. \textbf{Cat\'alogo de teses da {U}niversidade de
+  S\~ao Paulo, 1992}.
+S\~ao Paulo, 1993. 467~p.}
+
+\bibitem[Universidade Federal de Vi{\c c}osa 1994]{vicosa1994}
+\abntrefinfo{Universidade Federal de Vi{\c c}osa}{UNIVERSIDADE FEDERAL DE VI{\c
+  C}OSA}{1994}
+{UNIVERSIDADE FEDERAL DE VI{\c C}OSA. \textbf{Cat\'alogo de gradua{\c c}\~ao,
+  1994--1995}.
+Vi{\c c}osa, MG, 1994. 385~p.}
+
+\bibitem[Universidade Federal do Paran\'a. {Biblioteca Central}
+  1998]{parana1998}
+\abntrefinfo{Universidade Federal do Paran\'a. {Biblioteca
+  Central}}{UNIVERSIDADE FEDERAL DO PARAN\'A. {Biblioteca Central}}{1998}
+{UNIVERSIDADE FEDERAL DO PARAN\'A. {Biblioteca Central}. \textbf{Normas.doc}:
+  normas para apresenta{\c c}\~ao de trabalhos. Curitiba, 1998.
+5 disquetes, 3~$1/2$~pol. Word for Windows 7.0.}
+
+\bibitem[Universidade Federal do Paran\'a. {Biblioteca de Ci{\^e}ncia e
+  Tecnologia} 1997]{parana1997}
+\abntrefinfo{Universidade Federal do Paran\'a. {Biblioteca de Ci{\^e}ncia e
+  Tecnologia}}{UNIVERSIDADE FEDERAL DO PARAN\'A. {Biblioteca de Ci{\^e}ncia e
+  Tecnologia}}{1997}
+{UNIVERSIDADE FEDERAL DO PARAN\'A. {Biblioteca de Ci{\^e}ncia e Tecnologia}.
+  \textbf{Mapas}. Curitiba, 1997. Base de Dados em Microisis, vers\~ao 3.7.}
+
+\bibitem[Urani et al. 1994]{urani1994}
+\abntrefinfo{Urani et al.}{URANI et al.}{1994}
+{URANI, A. et al. \textbf{Constitui{\c c}\~ao de uma matriz de contabilidade
+  social para o Brasil}. Bras\'{i}lia, DF: IPEA, 1994.}
+
+\bibitem[{van GELDER} 1998]{vanGELDER1998}
+\abntrefinfo{{van GELDER}}{{van GELDER}}{1998}
+{{van GELDER}, T. Disentangling dynamics, computation and cognition.
+\textbf{Behavioral and Brain Sciences}, v.~21, p. 40--47, 1998.}
+
+\bibitem[VASO.TIFF 1999]{vaso1999}
+\abntrefinfo{VASO\ldots}{VASO\ldots}{1999}
+{VASO.TIFF. 1999.
+Altura: 1083 pixels. Largura: 827 pixels. 300 dpi. 32 BIT CMYK. 3.5 Mb. Formato
+  TIFF bitmap. Compactado.
+Dispon{\'\i}vel em: \url{file:///C:/Carol/VASO.TIFF}. Acesso em: 28 out. 1999.}
+
+\bibitem[Villa-Lobos 1916]{villa1916}
+\abntrefinfo{Villa-Lobos}{VILLA-LOBOS}{1916}
+{VILLA-LOBOS, H. \textbf{Cole{\c c}\~oes de quartetos modernos}: cordas. Rio de
+  Janeiro: [s.n.], 1916. 1 partitura (23 p.). Violoncelo.}
+
+\bibitem[Windows 98 1998]{pc1998}
+\abntrefinfo{Windows\ldots}{WINDOWS\ldots}{1998}
+{WINDOWS 98: o melhor caminho para atualiza{\c c}\~ao.
+\textbf{PC World}, S\~ao Paulo, n.~75, set. 1998.
+Dispon{\'\i}vel em: \url{http://www.idg.com.br/abre.htm}. Acesso em: 10 set.
+  1998.}
+
+\bibitem[Zani 1995]{zani1995}
+\abntrefinfo{Zani}{ZANI}{1995}
+{ZANI, R. \textbf{Beleza, sa\'ude e bem-estar}. S\~ao Paulo: Saraiva, 1995.
+  173~p.}
+
+\bibitem[Zilberman 1988]{zilberman1998}
+\abntrefinfo{Zilberman}{ZILBERMAN}{1988}
+{ZILBERMAN, R. \textbf{A leitura e o ensino da literatura}. S\~ao Paulo:
+  Contexto, 1988. Recens\~ao de: \abntreprintinfo{ silva1988}}
+
+\end{thebibliography}

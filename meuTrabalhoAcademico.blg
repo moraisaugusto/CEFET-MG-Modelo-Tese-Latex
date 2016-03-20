@@ -1,0 +1,88 @@
+This is BibTeX, Version 0.99d (TeX Live 2015/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: meuTrabalhoAcademico.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/dedicatoria.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/agradecimentos.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/epigrafe.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoPt.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/resumoEn.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaFiguras.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaTabelas.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaQuadros.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaAlgoritmos.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaSiglas.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/listaSimbolos.aux
+A level-1 auxiliary file: ./01-elementos-pre-textuais/sumario.aux
+A level-1 auxiliary file: ./02-elementos-textuais/introducao.aux
+A level-1 auxiliary file: ./02-elementos-textuais/trabalhosRelacionados.aux
+A level-1 auxiliary file: ./02-elementos-textuais/fundamentacaoTeorica.aux
+A level-1 auxiliary file: ./02-elementos-textuais/metodologia.aux
+A level-1 auxiliary file: ./02-elementos-textuais/resultados.aux
+A level-1 auxiliary file: ./02-elementos-textuais/conclusao.aux
+A level-1 auxiliary file: ./03-elementos-pos-textuais/referencias.aux
+The style file: abntex2-alf.bst
+A level-1 auxiliary file: ./03-elementos-pos-textuais/apendices.aux
+A level-1 auxiliary file: ./03-elementos-pos-textuais/anexos.aux
+A level-1 auxiliary file: ./03-elementos-pos-textuais/indiceRemissivo.aux
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 9000 items from 6000.
+Reallocated field_info (elt_size=4) to 21767 items from 5000.
+Database file #1: abntex2-options.bib
+Database file #2: ./03-elementos-pos-textuais/myRefs.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
++---------------------------------------------------------+
+| Estilo bibliográfico abntex2-alf.bst versão v-1.9.5           |
+| Em caso de dúvidas ou problemas com este estilo procure |
+| http://www.abntex.net.br/                               |
++---------------------------------------------------------+
+You've used 243 entries,
+            6714 wiz_defined-function locations,
+            2576 strings with 46010 characters,
+and the built_in function-call counts, 199238 in all, are:
+= -- 21459
+> -- 3079
+< -- 1530
++ -- 3366
+- -- 977
+* -- 12028
+:= -- 24453
+add.period$ -- 1038
+call.type$ -- 244
+change.case$ -- 1757
+chr.to.int$ -- 405
+cite$ -- 236
+duplicate$ -- 12610
+empty$ -- 15388
+format.name$ -- 4529
+if$ -- 48855
+int.to.chr$ -- 18
+int.to.str$ -- 3
+missing$ -- 4253
+newline$ -- 1083
+num.names$ -- 776
+pop$ -- 5031
+preamble$ -- 1
+purify$ -- 771
+quote$ -- 0
+skip$ -- 17405
+stack$ -- 1
+substring$ -- 7330
+swap$ -- 5009
+text.length$ -- 104
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 538
+warning$ -- 0
+while$ -- 1170
+width$ -- 0
+write$ -- 3791
