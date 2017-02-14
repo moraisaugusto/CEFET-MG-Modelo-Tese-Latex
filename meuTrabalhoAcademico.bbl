@@ -5,7 +5,7 @@
 \setlength{\labelsep}{0pt}\begin{thebibliography}{}
 \providecommand{\abntrefinfo}[3]{}
 \providecommand{\abntbstabout}[1]{}
-\abntbstabout{v-1.9.5 }
+\abntbstabout{v-1.9.6 }
 
 \bibitem[abnTeX2 e Araujo 2014]{abnTeX22014b}
 \abntrefinfo{abnTeX2 e Araujo}{ABNTEX2; ARAUJO}{2014a}
@@ -618,16 +618,8 @@ ISBN 1-58113-135-6.}
 Caderno 2, Visuais p. D2. 1 fot., p\&b. Foto apresentada no Projeto
   ABRA/Coca-cola.}
 
-\bibitem[Fran{\c c}a et al. 1996]{francco1996}
-\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996a}
-{FRAN{\c C}A, J.~L. et al. \textbf{Manual para normaliza{\c c}\~ao de
-  publica{\c c}\~oes t\'{e}cnico-cient\'{i}ficas}.
-{3}. ed. rev. e aum. Belo Horizonte, 1996.\footnote{Aqui a refer{\^e}ncia
-  \citeonline{francca1996} foi formatada como {\ttfamily manual} para fins de
-  compara{\c c}\~ao.}}
-
 \bibitem[Fran{\c c}a et al. 1996]{francca1996}
-\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996b}
+\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996a}
 {FRAN{\c C}A, J.~L. et al. \textbf{Manual para normaliza{\c c}\~ao de
   publica{\c c}\~oes t\'{e}cnico-cient\'{i}ficas}. {3}. ed. rev. e aum. Belo
   Horizonte: Ed. da UFMG, 1996.\footnote{Apesar de ser um manual esta entrada
@@ -635,6 +627,14 @@ Caderno 2, Visuais p. D2. 1 fot., p\&b. Foto apresentada no Projeto
   pois n\~ao se enquadra na defini{\c c}\~ao de manual do bibtex. Veja o que
   acontece se esta refer{\^e}ncia for formatada como {\ttfamily manual} em
   \citeonline{francco1996}.}}
+
+\bibitem[Fran{\c c}a et al. 1996]{francco1996}
+\abntrefinfo{Fran{\c c}a et al.}{FRAN{\c C}A et al.}{1996b}
+{FRAN{\c C}A, J.~L. et al. \textbf{Manual para normaliza{\c c}\~ao de
+  publica{\c c}\~oes t\'{e}cnico-cient\'{i}ficas}.
+{3}. ed. rev. e aum. Belo Horizonte, 1996.\footnote{Aqui a refer{\^e}ncia
+  \citeonline{francca1996} foi formatada como {\ttfamily manual} para fins de
+  compara{\c c}\~ao.}}
 
 \bibitem[Franco 1993]{franco1993}
 \abntrefinfo{Franco}{FRANCO}{1993}
