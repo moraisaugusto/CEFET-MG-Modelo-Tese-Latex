@@ -5,7 +5,7 @@ Modelo de tese e dissetação  Latex para o CEFET-MG usando regras da ABNT.
 
 ## Instalação e Execução - Windows (testado: windows 10)
 
-Faça o checkout ou faça o [download do zip](https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex/archive/master.zip):
+Faça o checkout ou faça o [download do zip](https://github.com/moraisaugusto/CEFET-MG-Modelo-Tese-Latex/archive/master.zip):
 
 ```
       git clone https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex.git
