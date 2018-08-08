@@ -8,7 +8,7 @@ Modelo de tese e dissetação  Latex para o CEFET-MG usando regras da ABNT.
 Faça o checkout ou faça o [download do zip](https://github.com/moraisaugusto/CEFET-MG-Modelo-Tese-Latex/archive/master.zip):
 
 ```
-      git clone https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex.git
+      git clone https://github.com/moraisaugusto/CEFET-MG-Modelo-Tese-Latex.git
 ```
 
 ### Requisitos Básicos:
@@ -32,10 +32,10 @@ Depois de instalado o Miktex e TexStudio, abra o arquivo .tex no TexStudio e fa�
 ## Instalação e Execução
 
 
-Faça o checkout ou faça o [download do zip](https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex/archive/master.zip):
+Faça o checkout ou faça o [download do zip](https://github.com/moraisaugusto/CEFET-MG-Modelo-Tese-Latex/archive/master.zip):
 
 ```bash
-      git clone https://github.com/aflavio/CEFET-MG-Modelo-Tese-Latex.git
+      git clone https://github.com/moraisaugusto/CEFET-MG-Modelo-Tese-Latex.git
 ```
 
 ### Debian/Ubuntu (testado)
